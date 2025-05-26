@@ -1,0 +1,888 @@
+clinic_id,name,city,country
+1,"Select...\nADANA\nADIYAMAN\nAFYONKARAHİSAR\nAĞRI\nAKSARAY\nAMASYA\nANKARA\nANTALYA\nARDAHAN\nARTVİN\nAYDIN\nBALIKESİR\nBARTIN\nBATMAN\nBAYBURT\nBİLECİK\nBİNGÖL\nBİTLİS\nBOLU\nBURDUR\nBURSA\nÇANAKKALE\nÇANKIRI\nÇORUM\nDENİZLİ\nDİYARBAKIR\nDÜZCE\nEDİRNE\nELAZIĞ\nERZİNCAN\nERZURUM\nESKİŞEHİR\nGAZİANTEP\nGİRESUN\nGÜMÜŞHANE\nHAKKARİ\nHATAY\nIĞDIR\nISPARTA\nİSTANBUL\nİZMİR\nKAHRAMANMARAŞ\nKARABÜK\nKARAMAN\nKARS\nKASTAMONU\nKAYSERİ\nKIRIKKALE\nKIRKLARELİ\nKIRŞEHİR\nKİLİS\nKKTC\nKOCAELİ\nKONYA\nKÜTAHYA\nMALATYA\nMANİSA\nMARDİN\nMERSİN\nMUĞLA\nMUŞ\nNEVŞEHİR\nNİĞDE\nORDU\nOSMANİYE\nRİZE\nSAKARYA\nSAMSUN\nSİİRT\nSİNOP\nSİVAS\nŞANLIURFA\nŞIRNAK\nTEKİRDAĞ\nTOKAT\nTRABZON\nTUNCELİ\nUŞAK\nVAN\nYALOVA\nYOZGAT\nZONGULDAK",,Turkey
+2,"Select...",,Turkey
+3,"ÖZEL TRAKYA HASTANESİ",,Turkey
+4,"Şanlıurfa Metrolife Hastanesi",,Turkey
+5,"Atatürk Üniversitesi Tıp Fakültesi Plastik Rekonstrüktif ve Estetik Cerrahi A.B.D ERZURUM",,Turkey
+6,"KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+7,"ACIBADEM BAKIRKÖY HASTANESİ",,Turkey
+8,"ÜSKÜDAR HOSPİTAL TÜRK HASTANESİ",,Turkey
+9,"Kilis Prof.Dr.Alaeddin Yavaşca Devlet Hastanesi",,Turkey
+10,"Muayenehane",,Turkey
+11,"Selçuk üniversitesi",,Turkey
+12,"Medicine Hospital Atlas Üniversitesi Hastanesi",,Turkey
+13,"BOSTANLI GİRNE BLV NO:1/B KARŞIYAKA/İZMİR",,Turkey
+14,"Doç Dr Erkan Orhan Kliniği",,Turkey
+15,"ÖZEL MUAYENEHANE",,Turkey
+16,"Hairtransplantation Klinik- DR KESER (ÖZEL MUAYENEHANE)",,Turkey
+17,"Beautymedic Dortmund-Düsseldorf",,Turkey
+18,"GÜLHANE ASKERİ TIP AKADEMİSİ",,Turkey
+19,"Özel Muayenehane",,Turkey
+20,"Op Dr Adem Özkan Muayenehanesi",,Turkey
+21,"Denizli Özel DolphinMed Sağlık Polikliniği",,Turkey
+22,"ÖZEL ESTEVİA POLİKLİNİĞİ",,Turkey
+23,"marmara ünv. plastik cerrahi abd",,Turkey
+24,"Medicalpark Batıkent Hastanesi",,Turkey
+25,"Emekli",,Turkey
+26,"DOKUZ EYLÜL ÜNİVERSİTESİ HASTANESİ",,Turkey
+27,"Neorama Plaza No:13 A /32 Yaşam Caddesi",,Turkey
+28,"ANKARA BİLKENT ŞEHİR HASTANESİ",,Turkey
+29,"Ege Üniversitesi Tıp Fakültesi, Plastik, Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",,Turkey
+30,"ÖZEL ANTAKYA AKADEMİ HASTANESİ",,Turkey
+31,"izmir özel sağlık hastanesi",,Turkey
+32,"ÖZEL MUAYENEHANE- HALASKARGAZİ CAD. LOTUS NİŞANTAŞI 38-66 İÇ KAPI NO: 75",,Turkey
+33,"Ahmet Torkut Muayenehanesi",,Turkey
+34,"İstanbul Atlas Üniversitesi",,Turkey
+35,"drcınık tıp merkezi",,Turkey
+36,"BAKIRKÖY ACIBADEM HASTANESİ",,Turkey
+37,"AHMET TERZİOĞLU ESTETİK SAĞLIK LTD. ŞTİ.",,Turkey
+38,"Ondokuz Mayıs Üniversitesi Tıp Fakültesi",,Turkey
+39,"Yenigun Mahallesi Mevlana Caddesi No 54 Midtown Plaza A Blok Daire 4",,Turkey
+40,"yok",,Turkey
+41,"Başkent Üniversitesi Tıp Fakültesi",,Turkey
+42,"Özel Medikent Hastanesi",,Turkey
+43,"Esteplast Estetik ve Plastik Cerrahi Kliniği",,Turkey
+44,"lokman hekim akay hastanesi",,Turkey
+45,"Marmara Üniversitesi",,Turkey
+46,"Ahmet Kürşat Yiğit",,Turkey
+47,"ELBİSTAN DEVLET HASTANESİ",,Turkey
+48,"Doç. Dr. Tunç Tiryaki Kliniği",,Turkey
+49,"BANDIRMA EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+50,"İSTİNYE ÜNİVERSİTESİ MEDİCAL PARK GAZİOSMANPAŞA HASTANESİ",,Turkey
+51,"ESTEPORT/ Muayenehane",,Turkey
+52,"ÖZEL MUAYENEHANE- ABDİ İPEKÇİ CADDESİ ÜNSAL APT.NO 6-8 DAİRE :10",,Turkey
+53,"ALİYEV CLİNİC",,Turkey
+54,"ÖZEL MUAYENEHANE (ÖZEL LEONART POLİKLİNİĞİ)",,Turkey
+55,"İZMİR ÖZEL EGEPOL HASTANESİ",,Turkey
+56,"Özel Muayenehane / Aurum Plastik Cerrahi",,Turkey
+57,"sisli fulya",,Turkey
+58,"DHR Health",,Turkey
+59,"Nişantaşı Üniversitesi Tıp Fakültesi",,Turkey
+60,"hastane/irmet",,Turkey
+61,"DOKUZ EYLÜL ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+62,"Este Natura Prof. Dr. Ali Gürlek",,Turkey
+63,"FLORYA MEDİCAL PARK HASTANESİ",,Turkey
+64,"NCR İnternational Hospital Gaziantep",,Turkey
+65,"Özel Poliklinik",,Turkey
+66,"Muayenehane - profdremreaksu.com",,Turkey
+67,"Özel muayenehane",,Turkey
+68,"ÖZEL MUAYENEHANE ZORLU CENTER DAİRE:18-19 BEŞİKTAŞ",,Turkey
+69,"emekli",,Turkey
+70,"MEDİCANA ATAKÖY İSTANBUL",,Turkey
+71,"Muayenehane- Abdi İpekçi Cad. Hayal Apt. No: 39",,Turkey
+72,"Yenimahalle Eğitim ve Araştırma Hastanesi",,Turkey
+73,"Istanbul Universitesi,Cerrahpasa Tip Fakultesi, Plastik, Rekonstruktif ve Estetik Cerrahi Ana Bilim Dali",,Turkey
+74,"Beykent Üniversitesi Hastnesi-İSTANBUL / Optimed International Çorlu Hastanesi-Tekirdağ/ VEGA Hastanesi Çorlu Tekirdağ",,Turkey
+75,"Özel Muayenehane - Hüsrev Gerede Cad. Güney Apt. No:72",,Turkey
+76,"Bayındır Sağlık Grubu Hastaneleri İstanbul",,Turkey
+77,"Dr. Ali Rıza Öreroğlu",,Turkey
+78,"SERBEST HEKİM",,Turkey
+79,"Esteloft Estetik ve Plastik Cerrahi Klinği",,Turkey
+80,"Fulya Mahallesi, Büyükdere Cad. No:74 A Blok 212",,Turkey
+81,"İSTANBUL ÜNİVERSİTESİ CERRAHPAŞA TIP FAKÜLTESİ",,Turkey
+82,"Afyonkarahisar Sağlık Bilimleri Üniversitesi Tıp Fakültesi",,Turkey
+83,"Özel Muayenehane - Bağdat Cad. No:322-8",,Turkey
+84,"kendi kliniği",,Turkey
+85,"izmir Katip Çelebi Üniversitesi Atatürk Eğitim ve araştırma hastanesi dermatoloji kliniği",,Turkey
+86,"Konur Cerrahi Tıp Merkezi Zübeyde Hanım Cad. No:12-1 Çekirge BURSA",,Turkey
+87,"VM MEDİCAL PARK ANKARA HASTANESİ",,Turkey
+88,"Dr.Alper Eskalen Muayenehanesi",,Turkey
+89,"İZMİR TEPECİK EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+90,"AFYONKARAHİSAR DEVLET HASTANESİ",,Turkey
+91,"Vanity Estetik",,Turkey
+92,"ZONGULDAK ATATÜRK DEVLET HASTANESİ",,Turkey
+93,"Acıbadem Maslak Hastanesi",,Turkey
+94,"Muayenahane",,Turkey
+95,"Klinik Anka Estetik ve Plastik Cerrahi, Op.Dr.Anı Çinpolat-Op.Dr.Gamze Bektaş",,Turkey
+96,"İstanbul Üniversitesi-Cerrahpaşa, Cerrahpaşa Tıp Fakültesi",,Turkey
+97,"Gaziantep Üniversitesi Şahinbey Araştırma Ve Uygulama Hastanesi",,Turkey
+98,"BAŞAKŞEHİR ÇAM ve SAKURA ŞEHİR HASTANESİ",,Turkey
+99,"OSMANİYE DEVLET HASTANESİ",,Turkey
+100,"Ankara Eğitim ve Araştırma Hastanesi",,Turkey
+101,"Siirt Eğitim ve Araştırma Hastanesi",,Turkey
+102,"Private practice office",,Turkey
+103,"İzmir Ekol Hastanesi",,Turkey
+104,"İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA . CERRAHPAŞA TIP FAKÜLTESİ",,Turkey
+105,"Özel Ofm Antalya Hastanesi",,Turkey
+106,"İSTANBUL MEDENİYET ÜNİVERSİTESİ GÖZTEPE EAH",,Turkey
+107,"ÖZEL YAŞAM HASTANESİ",,Turkey
+108,"ANTALYA EĞİTİM VE ARAŞTIRMA HASTANESİ PLASTİK CERRAHİ KLİNİĞİ",,Turkey
+109,"AG KLİNİK",,Turkey
+110,"İSTİNYE ÜNİVERSİTESİ GAZİOSMANPAŞA MEDİCALPARK HASTANESİ",,Turkey
+111,"Mare Clinic",,Turkey
+112,"Üsküdar Devlet Hastanesi",,Turkey
+113,"ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+114,"ıstanbul tıp fakültesi /Medilife Çapa hastanesi",,Turkey
+115,"Mersin Şehir Hastanesi",,Turkey
+116,"ÖZEL MUAYENEHANE- MUĞLA FETHİYE",,Turkey
+117,"ESTETİA ESTETIA ESTETİK PLASTİK CERRAHİ",,Turkey
+118,"ERCİYES ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ",,Turkey
+119,"İstanbul Üniversitesi İstanbul Tıp Fakültesi / Acıbadem Bakırköy Hastanesi",,Turkey
+120,"ONURSAL ÜYE",,Turkey
+121,"Memorial Bahçelievler Hastanesi",,Turkey
+122,"Doç. Dr. A. Tolga Eryılmaz Muayenehanesi",,Turkey
+123,"Hacettepe Üniversitesi Tıp Fakültesi",,Turkey
+124,"-",,Turkey
+125,"ÖZEL MUAYENEHANE (ESTETİK KLİNİK AYDAN AY)",,Turkey
+126,"Serbest",,Turkey
+127,"TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+128,"MUAYENEHANE- FEVZİ ÇAKMAK MAH. 1.YAY SOKAK NO:2/27",,Turkey
+129,"Academic Hs Bağlarbaşı İstanbul",,Turkey
+130,"samsun eğitim ve araştırma hastanesi",,Turkey
+131,"GAZİ ÜNİVERSİTESİ",,Turkey
+132,"muayenehane",,Turkey
+133,"Vanily Bosphorus Çengelköy İstanbul",,Turkey
+134,"serbest",,Turkey
+135,"İSTANBUL METİN SABANCI BALTALİMANI KEMİK HASTALIKLARI EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+136,"Altunizade Acıbadem Hastanesi",,Turkey
+137,"Özel Tınaztepe Hastanesi",,Turkey
+138,"KONYA ŞEHİR HASTANESİ",,Turkey
+139,"Medipol Üniversitesi Tıp Fakültesi",,Turkey
+140,"İSTANBUL ÜNİVERSİTESİ İSTANBUL TIP FAKÜLTESİ",,Turkey
+141,"ZEYTİNBURNU AVRASYA HASTANESİ",,Turkey
+142,"ÖZEL MUAYENEHANE- HALASKARGAZİ CADDESİ HALASKARGAZİ MAHALLESİ NO:10/A ŞİŞLİ",,Turkey
+143,"Özel Pendik Yüzyıl Hastanesi",,Turkey
+144,"Özel Muayenehane - Fener mahallesi Tekelioğlu Cad. Şenol Çimen Apt. No:9 D:6",,Turkey
+145,"özel hastane",,Turkey
+146,"Pamukkale Üniversitesi Eğitim Uygulama Ve Araştırma Hastanesi",,Turkey
+147,"ÇANKIRI DEVLET HASTANESİ",,Turkey
+148,"Barış Yiğit Klinik",,Turkey
+149,"BAŞAR KAYA KLİNİĞİ - ÜMİT MAH. OSMANAĞA KONAKLARI 2494/4 SOK. NO:12 ÜMİTKÖY",,Turkey
+150,"Op. Dr. Başar Erdoğan Estetik Cerrahi Kliniği",,Turkey
+151,"ANKARA ETLİK ŞEHİR HASTANESİ",,Turkey
+152,"ÖZEL MUAYENEHANE (İstanbul Estetik Plastik Merkezi )",,Turkey
+153,"ÖZEL MUAYENEHANE (Kadıköy Florence Nightingale Tıp Merkezi)",,Turkey
+154,"özel muayahane",,Turkey
+155,"ÇAĞLAYAN MAH. FENER CAD. NO:52/7",,Turkey
+156,"BABUCCU SURGİCAL ARTS NİŞANTAŞI (ÖZEL MUAYENEHANE)",,Turkey
+157,"Abant İzzet Baysal Üniversite Hastanesi",,Turkey
+158,"GAZİOSMANPAŞA HASTANESİ",,Turkey
+159,"İstanbul Üniversitesi - Cerrahpaşa",,Turkey
+160,"ALANYA EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+161,"ÖZEL MUAYENEHANE (Özel Elit Polikliniği)",,Turkey
+162,"AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",,Turkey
+163,"ERZURUM ŞEHİR HASTANESİ",,Turkey
+164,"Yeditepe Üniversitesi",,Turkey
+165,"Op. Dr. Bilgen Katipoğlu Erenoğlu Kliniği",,Turkey
+166,"balıkesir üniversitesi",,Turkey
+167,"KOÇ ÜNİVERSİTESİ TIP FAKÜLTESİ PLASTİK CERRAHİ ANABİLİM DALI",,Turkey
+168,"Prof.Dr Bilsev İnce Özel Klinik",,Turkey
+169,"güven çayyolu tıp merkezi ile anlaşmalı",,Turkey
+170,"BC Estetik",,Turkey
+171,"İrmet Hospital",,Turkey
+172,"Özel Muayenehane - Metin Kasapoğlu Cad. No:33/2",,Turkey
+173,"Sisli memorail hastanesi-zorlucenter wellness",,Turkey
+174,"İstanbul Tıp Fakültesi Plastik Rekonstrüktif ve Estetik Cerrahi Kliniği",,Turkey
+175,"ÖZEL MUAYENEHANE ANKARA",,Turkey
+176,"ŞANLIURFA MEHMET AKİF İNAN EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+177,"Ankara Üniversitesi Tıp Fakültesi",,Turkey
+178,"Medline Adana Hastanesi",,Turkey
+179,"Quartz Klinik",,Turkey
+180,"ANKARA ŞEHİR HASTANESİ",,Turkey
+181,"ısparta sdü plastik cerrahi",,Turkey
+182,"Muyanehane",,Turkey
+183,"Dr. Burak Alhan Muayenehanesi",,Turkey
+184,"Muayenehane-Ataşehir Bulvarı Metropol istanbul AVM A3 K:18 NO:298",,Turkey
+185,"Başkent Üniversitesi Ankara Hastanesi",,Turkey
+186,"MEDİPOL ÜNİVERSİTESİ MEDİPOL ACIBADEM BÖLGE HASTANESİ",,Turkey
+187,"VM Medical Park Pendik",,Turkey
+188,"Zonguldak Bülent Ecevit Üniversitesi",,Turkey
+189,"ESTETİKWORLD SAĞLIK HİZMETLERİ A.Ş. KISIKLI CADDESİ NO:7 ALTUNİZADE",,Turkey
+190,"Marmara Üniversitesi Tıp Fakültesi",,Turkey
+191,"Dr Bülent Demir Plastic surgery",,Turkey
+192,"Estrella Estetik Merkezi",,Turkey
+193,"Dicle Üniversitesi Tıp Fakültesi Araştırma Hastanesi",,Turkey
+194,"roswell park cancer institute",,Turkey
+195,"Serbest Hekim ( Istanbul - Viyana- Zurich-Basel )",,Turkey
+196,"Dokuz Eylül Üniversitesi Hastanesi",,Turkey
+197,"DR. CAN KOPAL KLİNİĞİ ŞAİR EŞREF BULVARI BAHAR APT. NO:61 K:2 D: 5",,Turkey
+198,"Eskişehir Osmangazi Üniversitesi Plastik, Rekonstrüktif ve Estetik Cerrahi ABD",,Turkey
+199,"İSTANBUL BAĞCILAR EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+200,"İstanbul Üniversitesi - Cerrahpaşa Tıp Fakültesi",,Turkey
+201,"özel",,Turkey
+202,"can zeliha gül klinik",,Turkey
+203,"MARMARA ÜNİVERSİTESİ PENDİK EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+204,"BAĞCILAR EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+205,"Yüzüncü Yıl Üniversitesi",,Turkey
+206,"Op. Dr. Celal Alioğlu Muayenehanesi",,Turkey
+207,"KARTAL DR. LÜTFİ KIRDAR ŞEHİR HASTANESİ",,Turkey
+208,"Renovium",,Turkey
+209,"BAHÇEŞEHİR ÜNİVERSİTESİ MEDİCAL PARK GÖZTEPE HASTANE KOMPLEKSİ",,Turkey
+210,"Dr. Cem Berkay Sınacı Muayenehanesi",,Turkey
+211,"PROF.DR.CEMAL FIRAT",,Turkey
+212,"ERCİYES ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+213,"şahsi muayenehane",,Turkey
+214,"ALMANYA",,Turkey
+215,"Roswell park cancer institute",,Turkey
+216,"Çukurova Üniversitesi Tıp Fakültesi Plastik Cerrahi A.D.",,Turkey
+217,"MEDİCİNE HOSPİTAL",,Turkey
+218,"Op.Dr.Cenk Görken Estetik Plastik Rekonstrüktif Cerrahi Uzmanı",,Turkey
+219,"Prof. Dr. Cenk Demirdöver Kliniği",,Turkey
+220,"KOCAELİ ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+221,"ON DOKUZ MAYIS ÜNİVERSİTESİ",,Turkey
+222,"özel muaynehane",,Turkey
+223,"ŞIRNAK DEVLET HASTANESİ PLASTİK CERRAHİ KLİNİĞİ",,Turkey
+224,"Trio Klinik - Op. Dr. Çağdaş Orman",,Turkey
+225,"HAKKARİ DEVLET HASTANESİ",,Turkey
+226,"Clinic Baytekin",,Turkey
+227,"Çanakkale Onsekiz Mart Üniversitesi",,Turkey
+228,"Kartal Dr. Lütfi Kırdar Şehir Hastanesi",,Turkey
+229,"Cleveland Clinic",,Turkey
+230,"KONYA NUMUNE HASTANESİ",,Turkey
+231,"Acıbadem Altunizade Hastanesi",,Turkey
+232,"esteworld plastik cerrahi hastanesi",,Turkey
+233,"GEP ESTETİK",,Turkey
+234,"Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",,Turkey
+235,"Başkent Üniversitesi İstanbul Hastanesi",,Turkey
+236,"MUAYENEHANE",,Turkey
+237,"Özel muayenehane, Nişantaşı , istanbul",,Turkey
+238,"Aydın Devlet Hastanesi",,Turkey
+239,"ÖZEL MUAYENEHANE- MANSUROĞLU MH.İSLAM KERİMOV CD.NO:4/A",,Turkey
+240,"SBÜ GÜLHANE EAH",,Turkey
+241,"ÖZEL ANTALYA ANADOLU HASTANESİ",,Turkey
+242,"Op. Dr. Derviş Akbilen Muayenehane",,Turkey
+243,"Muayenehane: Poyracık Sokak 47/5 Nişantaşı İstanbul",,Turkey
+244,"ÇEVRE HASTANESİ",,Turkey
+245,"Chine Medical Üniversity Hospital",,Turkey
+246,"MEDİCALPARK ANTALYA",,Turkey
+247,"ısparta şehir hastanesi",,Turkey
+248,"Bona Dea International Hospital",,Turkey
+249,"BAŞAKŞEHİR ÇAM VE SAKURA ŞEHİR HASTANESİ",,Turkey
+250,"İSTANBUL EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+251,"Gülhane Eğitim ve Araştırma Hastanesi",,Turkey
+252,"Op. Dr. Doğuş Yalçın Muayenehanesi",,Turkey
+253,"Çevre Hastanesi Mecidiyeköy",,Turkey
+254,"SİNCAN EĞİTİM VE ARAŞTIRMA HASTANESİ GÖKÇEK MAHALLESİ",,Turkey
+255,"MUAYENEHANE- HARBİYE MAH. ABDİ İPEKÇİ CAD. NO:39 D: 9",,Turkey
+256,"ÖZEL MUAYENEHANE MYRA ESTETİK",,Turkey
+257,"KAYSERİ ŞEHİR HASTANESİ KOCASİNAN",,Turkey
+258,"EGE ÜNİVERSİTESİ",,Turkey
+259,"özel muayenehane",,Turkey
+260,"Bülent Ecevit Üniversitesi Tıp Fakültesi Hastanesi Plastik Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",,Turkey
+261,"Kırıkkale Üniversitesi Tıp Fakültesi",,Turkey
+262,"ÖZEL HASTANE",,Turkey
+263,"Özel Muayenehane - Halaskargazi Cad. No 130/1",,Turkey
+264,"Doku Medical",,Turkey
+265,"Serbest Hekim",,Turkey
+266,"Dr. Evrim Uçkunkaya Muayenehanesi",,Turkey
+267,"ÖZEL MUAYENEHANE- MURATPAŞA ANTALYA",,Turkey
+268,"Esteworld Hastahanesi Altunizade",,Turkey
+269,"BALIKESİR ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+270,"Emrah Efe Aslaner Estetik ve Plastik Cerrahi Kliniği",,Turkey
+271,"Kocaeli Üniversitesi",,Turkey
+272,"İstanbul Üniversitesi, İstanbul Tıp Fakültesi",,Turkey
+273,"Lokman Hekim Üniversitesi Etlik Hastanesi",,Turkey
+274,"Yeditepe Üniversitesi Hastanesi",,Turkey
+275,"T.C. Maltepe Üniversitesi",,Turkey
+276,"ÖZEL KDZ EREĞLİ ECHOMAR HASTANESİ",,Turkey
+277,"Sadi Konuk Bakırköy EAH",,Turkey
+278,"ÖZEL MUAYENEHANE- EYÜPSULTAN- İSTANBUL",,Turkey
+279,"HALASKARGAZİ CAD. NO:38-66 LOTUS NİŞANTAŞI OFİSLERİ K:4 KAPI NO:56",,Turkey
+280,"Adnan Menderes Üniversitesi Tıp Fakültesi",,Turkey
+281,"MEDİCALPARK TRABZON KARADENİZ HASTANESİ",,Turkey
+282,"Çorlu",,Turkey
+283,"İkon Klinik",,Turkey
+284,"Pamukkale Üniversitsi Tıp Fakültesi",,Turkey
+285,"AYA KLİNİK",,Turkey
+286,"aegz.- Ästhetik-Gesundheits-Zentrum Darmstadt",,Turkey
+287,"Yuniq Clinic",,Turkey
+288,"MEMORIAL ATAŞEHİR HASTANESİ",,Turkey
+289,"Prof. Dr. Erdem Tezel",,Turkey
+290,"Op. Dr. Erdem Aksoy Plastik Rekonstrüktif ve Estetik Cerrahi Uzmanı-Muayenehane",,Turkey
+291,"İstanbul Tıp Fakültesi Plastik ve Rekonstrüktif Cerrahi Anabilimdalı",,Turkey
+292,"Başakşehir Çam ve Sakura Şehir Hastanesi",,Turkey
+293,"MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+294,"ÖZEL MUAYENEHANE- İSLAM KERİMOV CAD.MANSUROĞLU MH.NO:4/A BAYRAKLI/İZMİR",,Turkey
+295,"ÖZEL MUAYENEHANE / KızılırmaK MAH. 1443. Cd. No:51 D:E",,Turkey
+296,"istanbul aesthetic center",,Turkey
+297,"Dr. Erhan Şafak Sağlık Estetik &Lazer Kliniği",,Turkey
+298,"İzmir Katip Çelebi Üniversitesi",,Turkey
+299,"kendi ofisi",,Turkey
+300,"Dr. Erkan Yüce Muayenehane",,Turkey
+301,"DR. BURHAN NALBANTOĞLU DEVLET HASTANESİ",,Turkey
+302,"KIRŞEHİR EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+303,"ümraniye eğitim ve araştırma hastanesi",,Turkey
+304,"Erciyes üniversitesi",,Turkey
+305,"Nişantaşı muayenehane",,Turkey
+306,"Trakya Üniversitesi Tıp Fakültesi",,Turkey
+307,"İSTANBUL ÜNİVERSİTESİ İSTANBUL TIP FAKÜLTESİ PLASTİK REKONSTRÜKTİF VE ESTETİK CERRAHİ ANABİLİM DALI",,Turkey
+308,"Ege Üniversitesi Tıp Fakültesi Plastik Cerrahi Anabilim Dalı",,Turkey
+309,"Hacettepe Üniversitesi Tıp Fakültesi Plastik, Rekonstrüktif ve Estetik Cerrahi Ana Bilim Dalı",,Turkey
+310,"University Hospitals North Midlands",,Turkey
+311,"Bolu Abant İzzet Baysal Üni. Eğitim Araştırma Hastanesi",,Turkey
+312,"SİNCAN NAFİZ KÖREZ DEVLET HASTANESİ",,Turkey
+313,"ÖZEL DÜNYAM HASTANESİ",,Turkey
+314,"GÜLHANE EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+315,"MUAYENEHANE - AHMET YESEVİ CAD. ELMALI SOK. NO:10/3",,Turkey
+316,"Bezmiâlem Vakıf Üniversitesi",,Turkey
+317,"ANKARA EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+318,"Özel EPC hastanesi",,Turkey
+319,"SERBEST MUAYENEHANE",,Turkey
+320,"ANKARA ABDURRAHMAN YURTASLAN ONKOLOJİ EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+321,"Ataşehir Medicana Hastanesi",,Turkey
+322,"ERDEM HASTANESİ ÇAKMAK ŞUBESİ İSTANBUL",,Turkey
+323,"Prof. Dr. Fatih Irmak Muayenehanesi",,Turkey
+324,"Dr.Fatih Çınar Muayenehanesi",,Turkey
+325,"Özel Muayenehane- 1071 Ankara Plaza Kızılırmak Mah. 1443. Cad. No:25/156 A Blok 22.Kat",,Turkey
+326,"MEDİCAL PARK GEBZE",,Turkey
+327,"Biruni Üniversitesi Tıp Fakültesi",,Turkey
+328,"KANUNİ EĞİTİM VE ARAŞTIRMA HASTANESİ TIP FAKÜLTESİ",,Turkey
+329,"İzmir Atatürk Eğitim ve Araştırma Hastanesi",,Turkey
+330,"metropol Avm Atasehir muayenehane .",,Turkey
+331,"Hliç Üniversitesi",,Turkey
+332,"ankara atatürk eğitim ve araştırma hastanesi",,Turkey
+333,"serbest hekim",,Turkey
+334,"Hacettepe Üniversitesi Tıp Fakültesi Hastanesi Plastik Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",,Turkey
+335,"Adıyaman Üniversitesi Tıp Fakültesi",,Turkey
+336,"İDOL KBB TIP MERKEZİ",,Turkey
+337,"Demirkan Clinic",,Turkey
+338,"Op. Dr. Sarper Mete",,Turkey
+339,"Güven Hastanesi",,Turkey
+340,"Onep kliniği / Monep kliniği",,Turkey
+341,"Antalya özel muayenehane",,Turkey
+342,"Fıkret Celik Aesthetic & Plastic Surgery Clinic",,Turkey
+343,"SÜLEYMAN DEMİREL ÜNİVERSİTESİ",,Turkey
+344,"http://longevita.co.uk/",,Turkey
+345,"ankara memorial hastanesi",,Turkey
+346,"MEDICINE HOSPITAL İSTANBUL",,Turkey
+347,"BURSA DORUK NİLÜFER HASTANEİ",,Turkey
+348,"Furkan Erol Karabekmez Kliniği",,Turkey
+349,"HACETTEPE ÜNİVERSİTESİ TIP FAKÜLTESİ PLASTİK REKONSTRÜKTİF VE ESTETİK CERRAHİ",,Turkey
+350,"EMEKLİ",,Turkey
+351,"MUAYENEHANE-CADDEBOSTAN MAH. HALDUN TANER SOK. NO:10 D:8",,Turkey
+352,"COSMED CLİNİC ÖZEL MUAYANEHANE İSTANBUL",,Turkey
+353,"İstanbul Dr. Lütfi Kırdar Kartal Eğitim Ve Araştırma Hastanesi",,Turkey
+354,"ÇUKUROVA ÜNİVERSİTESİ TIP FAKÜLTESİ Hastanesi",,Turkey
+355,"Osmaniye Yeni Hayat Hastanesi",,Turkey
+356,"ÖZEL DÜNYA PARK HASTANESİ",,Turkey
+357,"HACETTEPE ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+358,"Selçuk Üniversitesi Tıp Fakültesi",,Turkey
+359,"Op.Dr Gökcen Ayyıldız - Nişantaşı Botoks (Botox) Merkezi",,Turkey
+360,"MANİSA ŞEHİR HASTANESİ",,Turkey
+361,"Op.Dr. Gökçen Oran Muayenehanesi",,Turkey
+362,"TRABZON KANUNİ EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+363,"Op.Dr.Gökhan Akkök Muayenehanesi",,Turkey
+364,"Ankara güven hst plastik cerrahi bölüm başkanı",,Turkey
+365,"Estetik ve Plastik Cerrahi",,Turkey
+366,"Özel Çapa Hastanesi",,Turkey
+367,"MAHMUTBEY MAHALLESİ TAŞOCAĞI YOLU CADDESİPOLAT POWER BASIN EKSPRES KAT:14 DAİRE :16",,Turkey
+368,"MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ",,Turkey
+369,"Özel Muayenehane - İZMİR",,Turkey
+370,"Çorum Hitit Üniversitesi Erol Olçok Eğitim ve Araştırma Hastanesi",,Turkey
+371,"Özel Muayenehane- İncirli Cad. Gülderen Sokak No: 2/8 D;11",,Turkey
+372,"Özel Muayenehane - Cadde Bostan Mah. Çam Fıstığı Sok. No:1 Cadde Palas B Blok D:1",,Turkey
+373,"muayenhane",,Turkey
+374,"İzmir Özel Egepol hastanesi",,Turkey
+375,"SERBEST",,Turkey
+376,"MEMORİAL ŞİŞLİ HASTANESİ",,Turkey
+377,"MUAYENEHANE - OP.DR. CEMİL TOPUZLU CAD. EMEK APT. NO:39/4 FENERBAHÇE",,Turkey
+378,"Özel Muayehane",,Turkey
+379,"LİV HOSPİTAL ULUS İSTANBUL",,Turkey
+380,"SAĞLIK BAKANLIĞI SİNCAN EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+381,"Uludağ Üniversitesi Tıp Fakültesi Hastanesi",,Turkey
+382,"Dr Banu Aksoy Klinik",,Turkey
+383,"Op. Dr. Hakan Özocak Plastik, Rekonstrüktif ve Estetik Cerrahi Muayenehanesi",,Turkey
+384,"HT CLINIC ÖZEL MUAYENEHANE",,Turkey
+385,"Özel Gözde Hastanesi",,Turkey
+386,"Doç. Dr. Hakan Şirinoğlu Muayenehanesi",,Turkey
+387,"Özel Muayenehane - B.Onat Cad. B. Onat Apt. No:119/12",,Turkey
+388,"İstanbul Üniversitesi-Cerrahpaşa, Cerrahpaşa Tıp Fakültesi Plastik, Rekonstrüktif ve Estetik Cerrahi AD",,Turkey
+389,"Hakan Aktaş Muayenehanesi",,Turkey
+390,"Acıbadem Sağlık Gurubu İstanbul",,Turkey
+391,"Mauyenehane",,Turkey
+392,"MUAYENEHANE- RUMELİ CAD. MEŞRUTİYET MAH. BİRLİK APT. NO:42/5",,Turkey
+393,"Koç İkiz Kuleleri A Blok No:57 Söğütözü- Ankara",,Turkey
+394,"KOCAELİ ÜNİVERSİTESİ PLASTİK REKONSTRÜKTİF VE ESTETİK CERRAHİ ABD",,Turkey
+395,"Özel ONEP Tıp Merkezi",,Turkey
+396,"İSKENDERUN DEVLET HASTANESİ",,Turkey
+397,"West Virginia University",,Turkey
+398,"HAB estetik hizmetleri A.Ş",,Turkey
+399,"anadolu sağlık merkezi hastanesi gebze",,Turkey
+400,"DOKU TIP",,Turkey
+401,"ACIBADEM Taksim Hastanesi",,Turkey
+402,"SAKARYA ÜNİVERSİTESİ EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+403,"İstinye Üniversitesi Tıp Fak.- Liv Hospital Bahçeşehir ve Vadi",,Turkey
+404,"SEYRANTEPE MAHALLESİ ABDULKADİR KONUKOĞLU CADDESİ NO:1 LİV HOSPİTAL ŞEHİTKAMİL",,Turkey
+405,"Kahramanmaraş Sütçü İmam Üniversitesi Tıp Fakültesi",,Turkey
+406,"Hasan Büyükdoğan Muaynehanesi",,Turkey
+407,"İzmir Tepecik Eğitim ve Araştırma Hastanesi",,Turkey
+408,"H CLINIC",,Turkey
+409,"Rebornia Center",,Turkey
+410,"DOKUZ EYLÜL ÜNİVERİSTESİ TIP FAKÜLTESİ",,Turkey
+411,"Doç. Dr. Hasan Mete Aksoy Muayenehanesi",,Turkey
+412,"OP.DR.HASAN TUNA TÜRKMEN MUAYENEHANESİ",,Turkey
+413,"Akademiska Sjukhuset",,Turkey
+414,"MUAYENEHANE- HARBİYE MAH. ABDİ İPEKÇİ CAD. NO:59 D:1",,Turkey
+415,"Mest Meme ve ESTetik Cerrahi",,Turkey
+416,"ÖZEL MUAYENEHANE KLİNEST",,Turkey
+417,"Seçkin Okşar Estetik Cerrahi Kliniği",,Turkey
+418,"Optima İş Merkezi Mersin",,Turkey
+419,"özel hlc plastik rekonstrüktif cerrahi merkezi",,Turkey
+420,"serbest Hizmet hastanesi MEMORİAL",,Turkey
+421,"Fbm Tıp Merkezi",,Turkey
+422,"NECMETTİN ERBAKAN ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+423,"İstanbul Üniversitesi İstanbul Tıp Fakültesi",,Turkey
+424,"inönü üniversitesi. Tıp Fakültesi",,Turkey
+425,"For-Est Poliklinik",,Turkey
+426,"İSTANBUL ÜNİVERSİTESİ CERRAHPAŞA",,Turkey
+427,"ŞİŞLİ ETFAL EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+428,"ÖZEL TERMESSOS ŞELALE HASTANESİ",,Turkey
+429,"Özel Klinik",,Turkey
+430,"Trakya Üniversitesi Plastik Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",,Turkey
+431,"HB-Clinic",,Turkey
+432,"DENİZLİ ÖZEL SAĞLIK HASTANESİ",,Turkey
+433,"GATA Haydarpaşa Eğitim Hastanesi",,Turkey
+434,"Kendi Özel Kliniği",,Turkey
+435,"Dicle Üniversitesi Tıp Fakültesi",,Turkey
+436,"İstanbul Tıp Fakültesi",,Turkey
+437,"Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi",,Turkey
+438,"İzmir Ekonomi Üniversitesi Medical Point Hastanesi",,Turkey
+439,"Gazi Üniversitesi Tıp Fakültesi Plastik Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",,Turkey
+440,"Muayenehane : Harbiye Mh.Cumhuriyet Cad.Pak.Ap.No:30 kat 1 Daire2.ŞİŞLİ/İST",,Turkey
+441,"Özel",,Turkey
+442,"ÇUKUROVA ÜNİVERSİTESİ TIP FAKÜLTESİ BALCALI HASTANESİ",,Turkey
+443,"ALANYA ESTETİK MERKEZİ",,Turkey
+444,"KAYSERİ ŞEHİR HASTANESİ",,Turkey
+445,"Lefkoşa KKTC",,Turkey
+446,"Vanity Estetik Cerrahi Kliniği Altunizade, Tophanelioğlu Cd. No:1",,Turkey
+447,"Nişantaşı Estetik",,Turkey
+448,"İSTANBUL ATLAS ÜNİVERSİTESİ HASTANESİ",,Turkey
+449,"op dr ilgi güler muayenehane",,Turkey
+450,"OĞUZHAN AYDOĞDU MUAYENEHANESİ",,Turkey
+451,"ÖZEL FLORYA HASTANESİ",,Turkey
+452,"Marmara üniversitesi tıp fakültesi,plastik rekonstrüktif ve estetik cerrahi",,Turkey
+453,"Op Dr İlkay Hüthüt",,Turkey
+454,"Antalya Egitim ve Araştırma Hastanesi",,Turkey
+455,"NİĞDE EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+456,"Marmara tıp fakültesi, Pendik Eğitim ve Araştırma Hastanesi",,Turkey
+457,"İZMİR TINAZTEPE ÜNİVERSİTESİ",,Turkey
+458,"İzmir Şehir Hastanesi",,Turkey
+459,"Esthatica Levent Hastanesi",,Turkey
+460,"YOZGAT ŞEHİR HASTANESİ",,Turkey
+461,"Ozel",,Turkey
+462,"Özel Eryaman Hastanesi",,Turkey
+463,"ERCİYES ÜNİVERSİTESİ",,Turkey
+464,"İsmail Küçüker Klinik",,Turkey
+465,"ÖZEL VİTALE KADIN HASTALIKLARI VE DOĞUM HASTANESİ /KİRALİK KADRO)",,Turkey
+466,"Özel , Klinik İstanbul",,Turkey
+467,"Flora Klinik",,Turkey
+468,"İncirli C. N:43 D:7 Osmaniye M. Bakırköy",,Turkey
+469,"Yeni Yüzyıl Üniversitesi, Özel GOP Hastanesi",,Turkey
+470,"Mehmet Akif İnan Eğitim ve Araştırma Hastanesi",,Turkey
+471,"İSTANBUL SANCAKTEPE EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+472,"BAYPARK HASTANESİ",,Turkey
+473,"Acıbadem Üniversitesi",,Turkey
+474,"ONDOKUZ MAYIS ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+475,"OP.DR. KAMİL MANAV KLİNİK",,Turkey
+476,"Esteworld Plastik Cerrahi Hastanesi",,Turkey
+477,"Sağlık Bilimleri ÜniversitesiSeyrantepe Hamidiye Etfal Eğitim Araştırma Hastanesi",,Turkey
+478,"Plastik, Estetik, Ağız, Yüz ve Çene Cerrahı - Prof. Dr. Kemal Uğurlu",,Turkey
+479,"Gazi Üniversitesi Tıp Fakültesi Hastanesi",,Turkey
+480,"Afyonkarahisar Saglık Bilimleri Üniversitesi",,Turkey
+481,"Bezm-i Alem Üniversitesi Hastaneler Grubu",,Turkey
+482,"ÖZEL DENİZLİ CERRAHİ HASTANESİ",,Turkey
+483,"medicana samsun hastanesi",,Turkey
+484,"Tutkun Medical Aesthetics",,Turkey
+485,"İZMİR BOZYAKA EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+486,"kayseri şehir hastanesi",,Turkey
+487,"Karadeniz Teknik Üniversitesi Plastik Rekonstrüktif ve Estetik Cerrahi",,Turkey
+488,"Celal Bayar Üniversitesi Tıp Fakültesi",,Turkey
+489,"ÖZEL QUARTZ POLİKLİNİĞİ",,Turkey
+490,"Ondokuz Mayıs Üniversitesi",,Turkey
+491,"Özel Muayenehane Halaskargazi cad. 81-3 Şişli İstanbul",,Turkey
+492,"ÖZEL OFM ANTALYA HASTANESİ",,Turkey
+493,"Hitit Üniversitesi, Özel muayenehane",,Turkey
+494,"Serbest hekim",,Turkey
+495,"prof.dr.cemil taşçıoğlu şehir hastanesi",,Turkey
+496,"Op.Dr.Mahmut Özgül Muayenehanesi",,Turkey
+497,"Muayenehane- Mustafa Kemal Bulvarı NO: 87 A-B Fethiye-Muğla",,Turkey
+498,"GÜNEY ESTETİK CERRAHİ",,Turkey
+499,"Bursa Acıbadem Hastanesi",,Turkey
+500,"BURSA ŞEHİR HASTANESİ",,Turkey
+501,"ÖZEL MUAYENEHANE ŞİŞLİ",,Turkey
+502,"Hatay Eğitim ve Araştırma Hastanesi",,Turkey
+503,"Liv Hospital Vadistanbul",,Turkey
+504,"Özel Muayenehane Barbaros Mah. Mor Sümbül Sok. Deluxia Palace No: 5 D:89 Ataşehir",,Turkey
+505,"SİVAS NUMUNE HASTANESİ",,Turkey
+506,"Dr.Mehmet Köksal Clinic Nişantaşı",,Turkey
+507,"OP. DR MEHMET ÇİFCİ MUAYENEHANESİ",,Turkey
+508,"ÖZEL MASLAK ACIBADEM HASTANESİ",,Turkey
+509,"Op.Dr.Mehmet Sürmeli Muayenehanesi",,Turkey
+510,"Dr Mehmet Cömert Muayenehanesi",,Turkey
+511,"dicle üniversitesi hastanesi",,Turkey
+512,"ACIBADEM HASTANESİ BODRUM",,Turkey
+513,"SO-EP Klinik Hulat mah. Nuh Naci Yazgan Cad. No:21",,Turkey
+514,"Memorial Kayseri Hastanesi",,Turkey
+515,"özel hekimlik",,Turkey
+516,"www.alanyaestetik.com özel klinik 0242 5222424",,Turkey
+517,"İSTANBUL BAĞCILAR EĞİTİM ARAŞTIRMA HASTANESİ",,Turkey
+518,"Necmettin Erbakan Üniversitesi Meram Tıp Fakültesi",,Turkey
+519,"KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",,Turkey
+520,"YENİ YÜZYIL ÜNİVERSİTESİ ÖZEL GOP HASTANESİ",,Turkey
+521,"Kanuni sultan Süleyman eğitim ve araştırma hastanesi",,Turkey
+522,"Özel Ümit Vişnelik Hastanesi",,Turkey
+523,"Artvin Devlet Hastanesi",,Turkey
+524,"ÖZEL MUAYENEHANE- KAHRAMANMARAŞ",,Turkey
+525,"TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ TIP FAKÜLTESİ PLASTİK, REKONSTRÜKTİF VE ESTETİK CERRAHİ ANABİLİM DALI",,Turkey
+526,"Ankara Bilkent Şehir Hastanesi",,Turkey
+527,"Özel Buhara Hastanesi",,Turkey
+528,"ŞİŞLİ HAMİDİYE ETFAL EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+529,"BursaEstetik",,Turkey
+530,"EGE ÜNİVERİSTESİ TIP FAKÜLTESİ HASTANESİ",,Turkey
+531,"Muayenehane- Teşvikiye Cad. No:3A Güneş Apt. K:1",,Turkey
+532,"Op Dr Beşir Öner Clinic Nişantaşı",,Turkey
+533,"DENİZLİ DEVLET HASTANESİ",,Turkey
+534,"HC KLİNİK",,Turkey
+535,"İstinye Üniversitesi Medicalpark GOP Hastanesi",,Turkey
+536,"İstinye Üniversitesi Hastanesi",,Turkey
+537,"Meşrutiyet mah. Hacı Mansur Sk. No:2",,Turkey
+538,"Esat Olgun",,Turkey
+539,"Dr. MFO - Art, Surgery & Beauty",,Turkey
+540,"dicle üniversitesi tıp fakültesi",,Turkey
+541,"özel muayehane",,Turkey
+542,"FIRAT ÜNİVERSİTESİ",,Turkey
+543,"MUAYENEHANE- 15 TEMMUZ MAH. 148042 SOK. NO:5",,Turkey
+544,"Avicenna hastanesi",,Turkey
+545,"DİCLE ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+546,"İzmir Muayenehane",,Turkey
+547,"İSTANBUL ÜNİVERSİTESİ TIP FAKÜLTESİ PLASTİK REKONSTRÜKTİF VE ESTETİK CERRAHİ ANABİLİM DALI",,Turkey
+548,"GAZİ ÜNİVERSİTESİ TIP FAKÜLTESİ + SERBEST HEKİMLİK",,Turkey
+549,"Karaaltın Sağlık izmetleri",,Turkey
+550,"İstanbul Kanuni Sultan Süleyman Eğitim ve Araştırma Hastanesi",,Turkey
+551,"Melekber Çavuş Özkan Muayehanesi",,Turkey
+552,"Regen-IC klinik",,Turkey
+553,"Özel Egesante Tıp Merkezi",,Turkey
+554,"Afyonkarahisar Devlet Hastanesi",,Turkey
+555,"muaynehane",,Turkey
+556,"BURSA ULUDAĞ ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+557,"KOCAELİ DEVLET HASTANESİ",,Turkey
+558,"ÖZEL MUAYENEHANE- BAĞDAT CAD. NO: 499/1",,Turkey
+559,"YEDİTEPE ÜNİVERSİTESİ HASTANELERİ",,Turkey
+560,"Özel Muayenehane Bağdat Cad. No: 292/8",,Turkey
+561,"Hacettepe Üniversitesi Tıp Fakültesi Hastanesi",,Turkey
+562,"Esteworld Altunizade",,Turkey
+563,"ANKARA BİLKENT ŞEHİR HASTANESİ TIP FAKÜLTESİ",,Turkey
+564,"istanbul kartal dr. lütfi kırdar E.A.H.",,Turkey
+565,"Op Dr Mert Sandıkcı Estetik ve Plastik Cerrahi Kliniği",,Turkey
+566,"Dokuz Eylül üniversitesi hastanesi",,Turkey
+567,"Dokuz eylül üniversitesi plastik rekonstrüktif ve estetik cerrahi anabilim dali",,Turkey
+568,"Serbest muayenehane",,Turkey
+569,"Sakarya Yenikent Devlet Hastanesi",,Turkey
+570,"Özel estetiCare Tıp Merkezi BURSA",,Turkey
+571,"OP.DR.METİN TEMEL MUAYENEHANESİ",,Turkey
+572,"Abant İzzet Baysal Üniversitesi Tıp Fakültesi",,Turkey
+573,"Acıbadem Sağlık Grubu",,Turkey
+574,"özel büyükşehir hastanesi",,Turkey
+575,"T.C Medeniyet Üniversitesi Göztepe E.A.H",,Turkey
+576,"Serbest Muayenehane Hekimi",,Turkey
+577,"SELÇUK ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ",,Turkey
+578,"ANKARA ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ",,Turkey
+579,"KARADENİZ TEKNİK ÜNİVERSİTESİ",,Turkey
+580,"Dr Muharrem Demiroğulları Kliniği BESA Kule A Blok",,Turkey
+581,"AMASYA ÜNİVERSİTESİ SABUNCUOĞLU ŞEREFEDDİN E.A.H.",,Turkey
+582,"Hitit Üniversitesi Erol Olçok Eğitim Ve Araştırma Hastanesi",,Turkey
+583,"MURAT TEZCAN ESTETİK",,Turkey
+584,"Selenium Plaza Muayenehane - Beşiktaş",,Turkey
+585,"SERBEST Muayenehane",,Turkey
+586,"Hacettepe Üniversitesi",,Turkey
+587,"ÖZEL MUAYENEHANE FENER MAH FALEZ CADDESİ NO:27/C",,Turkey
+588,"ÖZEL ESTETIK INTERNATİONAL PLASTİK CERRAHİ TIP MERKEZİ",,Turkey
+589,"ULUDAĞ ÜNİVERSİTESİ HASTANESİ",,Turkey
+590,"KOCAELİ ÜNİVERSİTESİ",,Turkey
+591,"Gebze Medicalpark Hastanesi",,Turkey
+592,"Dokuz Eylül Üniversitesi Tıp Fakültesi, Plastik, Rekonstrüktif ve Estetik Cerrahi Kliniği",,Turkey
+593,"Mustafa Durğun Muayenehanesi",,Turkey
+594,"ÖZEL MUAYENEHANE- KONAK EĞİTİMCİLER CAD. NO:2/15",,Turkey
+595,"MUAYENEHANE - GAZİPAŞA CAD. NO:18/3 ORTAHİSAR",,Turkey
+596,"Muğla Sıtkı Koçman Üniversitesi Tıp Fakültesi",,Turkey
+597,"Angora Klinik",,Turkey
+598,"ÖZEL MERSİN SİSTEM CERRAHİ TIP MERKEZİ",,Turkey
+599,"ÖZEL İZMİR GAZİ HASTANESİ",,Turkey
+600,"Çanakkale Onsekiz Mart Üniversitesi Tıp Fakültesi",,Turkey
+601,"mustafa Kemal üniversitesi Plastik Rekonstrüktif Ve Estetik Cerrahi AD.",,Turkey
+602,"MUAYENEHANE- VALİ KONAĞI CAD. MARMARA APT. NO: 16/6",,Turkey
+603,"CASANİTA PLAZA",,Turkey
+604,"Eşrefpaşa Belediye Hastanesi İzmir",,Turkey
+605,"Manisa Celal Bayar Üniversitesi Hafsa Sultan Hastanesi",,Turkey
+606,"ANTALYA ŞEHİR HASTANESİ",,Turkey
+607,"Özel Beylikdüzü-İstanbul",,Turkey
+608,"vkv amerikan hastanesi",,Turkey
+609,"DrMusK Clinic Nişantaşı",,Turkey
+610,"ANKARA ATATÜRK EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+611,"KAHRAMANMARAŞ SÜTÇÜ İMAM TIP FAKÜLTESİ HASTANESİ",,Turkey
+612,"Ondokuz Mayis Üniversitesi Tıp Fakültesi",,Turkey
+613,"MENGÜCEK GAZİ EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+614,"Memorial İSTANBUL Bahçelievler",,Turkey
+615,"Özel Ege Hastanesi",,Turkey
+616,"ESTECENTER CLINIC FULYA-ISTANBUL",,Turkey
+617,"Mansuroğlu Mah. 286/3 Sk No:17 K:1 D:1",,Turkey
+618,"KEÇİÖREN EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+619,"Hacettepe Üniversitesi / Özel Muayenehane",,Turkey
+620,"Ankara Dr. Abdurrahman Yurtaslan Onkoloji Eğitim ve Araştırma Hastanesi",,Turkey
+621,"MEDİPOL Üniversitesi",,Turkey
+622,"Serbest Muayenehane",,Turkey
+623,"Harbiye Mahallesi Teşvikiye Caddesi No:17 Daire :8 Nişantaşı",,Turkey
+624,"LÖSANTE ÇOCUK VE YETİŞKİN HASTANESİ",,Turkey
+625,"Novita Estetik Merkezi",,Turkey
+626,"AVRASYA HASTANESİ GAZİOSMANPAŞA",,Turkey
+627,"SAMSUN MEDİCANA HASTANESİ",,Turkey
+628,"ANTALYA EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+629,"AFYONKARAHİSAR ÖZEL PARKHAYAT HASTANESİ",,Turkey
+630,"VM MEDİKALPARK HASTANESİ MERSİN",,Turkey
+631,"Medicana International Istanbul Hastanesi",,Turkey
+632,"Necmettin Erbakan Üniversitesİ MERAM TIP FAKÜLTESİ CERRAHİ TIP BİLİMLERİ BÖLÜMÜ",,Turkey
+633,"İSTANBUL TÜRKİYE HASTANESİ PLASTİK CERRAHİ BÖLÜMÜ",,Turkey
+634,"İstanbul Haydarpaşa Numune Eğıtım Ve Araştirma Hastanesı",,Turkey
+635,"SİVAS MEDİCANA HASTANESİ",,Turkey
+636,"SBÜ GÜLHANE EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+637,"ACIBADEM İnternational Hospital",,Turkey
+638,"ÖZEL MUAYENEHANE- NİSPETİYE CADDESİ BIYIKLI MEHMET PAŞA SOKAK NO:30 ETİLER",,Turkey
+639,"Muğla Özel Yücelen Hastanesi",,Turkey
+640,"İstanbul,Şişli muayenehane",,Turkey
+641,"ÖZEL MEDİKAL HASTANESİ",,Turkey
+642,"Op. Dr. Niyazi Şimdivar Kliniği",,Turkey
+643,"Bezmiâlem Vakıf Üniversitesi Hastanesi",,Turkey
+644,"Bursa Uludağ Üniversitesi Tıp Fakültesi Hastanesi",,Turkey
+645,"Op.Dr NURGÜL ALTUNTAŞ",,Turkey
+646,"Valikonağı Caddesi, Gündoğdu Apt. No: 43 Daire: 1",,Turkey
+647,"plastik cerrahi kliniği",,Turkey
+648,"ANKARA ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+649,"İstanbul Medeniyet Üniversitesi Göztepe Eğ. Ar. Hastanesi",,Turkey
+650,"İstanbul Aydın Üniversitesi",,Turkey
+651,"ÇUKUROVA ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+652,"MUYANEHANE- Mansuroğlu mah. 288/4 Sokak Avcılar Exclusive, No:9/1 K:7 D:154",,Turkey
+653,"OP.DR. OĞUZ ÇÖRTÜK MUAYENEHANESİ",,Turkey
+654,"Selçuk Üniversitesi Hastanesi Plastik, Rekonstrüktif ve Estetik Cerrahi",,Turkey
+655,"SULTAN MEHMET BULVARI EVLİYA ÇELEBİ EĞİTİM VE ARAŞTIRMA HASTANESİ PLASTİK CERRAHİ POLİKLİNİĞİ",,Turkey
+656,"ÖZEL MUAYENEHANE-Özel Florya Cerrahi Tıp Merkezi",,Turkey
+657,"SÜLEYMAN DEMİREL ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+658,"KARADENİZ TEKNİK ÜNİVERSİTESİ FARABİ HASTANESİ",,Turkey
+659,"ANKARA ONKOLOJİ EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+660,"T.C. SAĞLIK BAKANLIĞI İSTANBUL GAZİOSMANPAŞA EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+661,"Özel Estanbul Polikliniği",,Turkey
+662,"PROF.DR.CEMİL TAŞÇIOĞLU ŞEHİR HASTANESİ",,Turkey
+663,"Op.Dr.Onur SAKA Muayenehanesi",,Turkey
+664,"MUAYENEHANE- ÇAĞLAYAN MAHALLESİ MURATPAŞA/ANTALYA",,Turkey
+665,"Op.Dr.Onur Oğan Kliniği",,Turkey
+666,"Op.Dr. Orhan Aydın Muayenehane",,Turkey
+667,"Babucçu Estetik Merkezi",,Turkey
+668,"Meram Tıp Fak.",,Turkey
+669,"LİV HOSPİTAL BAHÇEŞEHİR",,Turkey
+670,"BURSA HAYAT HASTANESİ",,Turkey
+671,"ÖZEL MUAYNEHANE",,Turkey
+672,"Dr. Osman TAN Muayenehanesi",,Turkey
+673,"Gazi Üniversitesi Tıp Fakültesi",,Turkey
+674,"Harbiye mah. Abdi ipekçi cad. No:61 Reasürans Han 2, Kat:5",,Turkey
+675,"Akın Yücel Klinik Maçka Cd 15/2 Şişli / İstanbul",,Turkey
+676,"Özel Şenel Polikliniği",,Turkey
+677,"memorial kayseri hastanesi",,Turkey
+678,"BANDIRMA",,Turkey
+679,"ACIBADEM SAĞLIK GRUBU",,Turkey
+680,"Kastamonu Eğitim ve Araştırma Hastanesi",,Turkey
+681,"ONEP Tıp Merkezi",,Turkey
+682,"ESTETİKA",,Turkey
+683,"Atatürk Bulvarı, Gökay Plaza Kat:1 Konyaaltı/Antalya",,Turkey
+684,"Özel Sağlık Hastanesi İzmir",,Turkey
+685,"Op Dr Ömer Keven Muayenehanesi",,Turkey
+686,"Çukurova Üniversitesi Tıp Fakültesi",,Turkey
+687,"Ankara Keçiören Eğitim Ve Araştırma Hastanesi",,Turkey
+688,"MUAYENEHANE- CEMİL TOPUZLU CAD. CADDEBOSTAN MAH. NO:67/1",,Turkey
+689,"Bahçelievler Medical Park Hastanesi",,Turkey
+690,"ORCestetik plastik cerrahi kliniği",,Turkey
+691,"Professor Dr Ömer Refik Özerdem, Plastic Surgeon",,Turkey
+692,"VM MEDICAL PARK PENDİK HASTANESİ",,Turkey
+693,"Özel Muayenehane, Vişnezade Mh. Şehit Mehmet Sk. Maçka Residences No: 9A/12, 34357 Beşiktaş / İstanbul",,Turkey
+694,"( Özel )Önder Karaaslan Muayenehanesi",,Turkey
+695,"Muayenehane- Harbiye Mahallesi, Teşvikiye Cad. İnayet Apt, No:43, Kat:1, Nişantaşı",,Turkey
+696,"NECİP FAZIL ŞEHİR HASTANESİ",,Turkey
+697,"Meşrutiyet mahallesi Rumeli caddesi Rumeli Plaza no :22 Şişli / İstanbul",,Turkey
+698,"Ege Estetik Cerrahi",,Turkey
+699,"Ankara Bilkent Şehir Hastanesi Plastik Cerrahi Kliniği",,Turkey
+700,"ANKARA ATATÜRK SANATORYUM EAH",,Turkey
+701,"Ankara Etlik Şehir Hastanesi",,Turkey
+702,"BALIKESİR ATATÜRK ŞEHİR HASTANESİ",,Turkey
+703,"Tekirdağ Namık Kemal Üniversitesi Tıp Fakültesi Aaraştırma ve Uygulama Hastanesi",,Turkey
+704,"Özel Muayenehane Tunalı Hilmi Cad. No: 112/3",,Turkey
+705,"Marmara Üniversitesi - Tıp Fakültesi / Cerrahi Tıp Bilimleri Bölümü",,Turkey
+706,"Demiroğlu Bilim Üniversitesi",,Turkey
+707,"İÇMELER MAH. ZİNNUR SOK. NO: 3 LANTANA PLAZA K:4 OFİS :13",,Turkey
+708,"AKDENİZ ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+709,"Özel Epc Hastanesi",,Turkey
+710,"S.B.Ü. Başakşehir Çam ve Sakura Şehir Hastanesi",,Turkey
+711,"İnönü Üniversitesi Turgut Özal Tıp Merkezi Plastik Cerrahi AB",,Turkey
+712,"Cleveland Clinic Ana Kampüsü",,Turkey
+713,"dr. ramazan güler muayenehanesi",,Turkey
+714,"Uludağ üniv tıp fak- serbest hekim",,Turkey
+715,"Ankara Şehir Hastanesi",,Turkey
+716,"Pamukkale Üniv. Eğitim Uyg. Araş. Hastanesi Kınıklı",,Turkey
+717,"ADANA ŞEHİR EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+718,"gaziantep üniversitesi",,Turkey
+719,"Mersin Şehir EAH",,Turkey
+720,"ÖZEL MUAYENEHANE- ESKİŞEHİR",,Turkey
+721,"Prof. Dr. Reha Yavuzer",,Turkey
+722,"DR REŞAT AKTAŞ KLİNİĞİ",,Turkey
+723,"UŞAK ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+724,"BHT CLİNİC İSTANBUL TEMA HASTANESİ",,Turkey
+725,"Cosmed Plastik Cerrahi",,Turkey
+726,"ORTACA YÜCELEN HASTANESİ",,Turkey
+727,"Özel EPC Hastanesi Adana",,Turkey
+728,"AMERİKAN HASTANESİ",,Turkey
+729,"Texas, New Mexico El Paso Cosmetic Surgery",,Turkey
+730,"DIŞKAPI YILDIRIM BEYAZIT EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+731,"Saffet Ulutaş kliniği",,Turkey
+732,"Saffet Örs Muayenehanesi",,Turkey
+733,"Afyon Sağlık Bilimleri Üniversitesi Hastanesi",,Turkey
+734,"Prof. Dr. Cemil Taşçıoğlu Hastanesi",,Turkey
+735,"CLİNİCPLAST",,Turkey
+736,"Samet Hariri Muayenehanesi",,Turkey
+737,"OZEL",,Turkey
+738,"SELÇUK ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+739,"Prof.Dr.Sarper Yılmaz Muayehanesi / Mustafa Kemal Mahallesi Dumlupınar Bulvarı Mahall Yaşam Merkezi 274/2-117",,Turkey
+740,"DIŞKAPI EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+741,"ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+742,"ÖZEL MUAYENEHANE-OP.DR.SELAHADDİN ASLAN",,Turkey
+743,"Amerikan Hastanesi & Koç Üniversitesi",,Turkey
+744,"Özel Muayenahane",,Turkey
+745,"Lookus",,Turkey
+746,"selçuk yüce klinik",,Turkey
+747,"Uludağ Üniversitesi Tıp Fakültesi Plastik,Rekonstrüktif ve Estetik Cerrahi A.D. BURSA",,Turkey
+748,"ÖZEL MEDİFEMA HASTANESİ",,Turkey
+749,"Özel Hekimlik",,Turkey
+750,"Süleyman Demirel Üniversitesi",,Turkey
+751,"Op. Dr. Sema Özden Kliniği",,Turkey
+752,"Vanity Estetik Cerrahi",,Turkey
+753,"İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi",,Turkey
+754,"Cizre Dr Selahattin Cizrelioğlu Devlet Hastanesi",,Turkey
+755,"ÖZEL MUAYENEHANE Semra Nergiz Muayenehanesi",,Turkey
+756,"ŞİŞLİ EFTAL EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+757,"UFUK ÜNİVERSİTESİ DR. RIDVAN EGE HASTANESİ",,Turkey
+758,"erciyes üniversitesi",,Turkey
+759,"Esteden Estetik Kliniği",,Turkey
+760,"MUAYENEHANE- ABDULKADİR AKSU BULVARI SIRAEVLER SİTESİ NO:130/C/B",,Turkey
+761,"Op.Dr.Serdar M.Beten",,Turkey
+762,"özel klinik, ClinicSBB",,Turkey
+763,"Ankara Üniversitesi Tıp Fakültesi Plastik Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",,Turkey
+764,"Muayenehane- İran Caddesi 33/3",,Turkey
+765,"Uludağ Üniversitesi Tıp Fakültesi Plastik ve Rekonstrüktif Cerrahi A.D. Bursa",,Turkey
+766,"GAZİ ÜNİVERSİTESİ TIP FAKÜLTESİ PLASTİK CERRAHİ ANABİLİM DALI",,Turkey
+767,"MUAYENEHANE- Hoşnudiye Mh. 767 Sokak No:2 K:7 D:22 Kaya Prestij Plaza A Blok",,Turkey
+768,"GAZİANTEP ŞEHİR HASTANESİ",,Turkey
+769,"ÖZEL",,Turkey
+770,"ÖZEL MUAYENEHANE MURATPAŞA ANTALYA",,Turkey
+771,"DİCLE ÜNİVERSİTESİ TIP FAKÜLTESİ PLASTİK CERRAHİ ANABİLİM DALI",,Turkey
+772,"ÖZEL METROLİFE HASTANESİ ŞANLIURFA",,Turkey
+773,"ANKARA ÜNİVERİSTESİ TIP FAKÜLTESİ CEBECİ UYGULAMA VE ARAŞTIRMA HASTANESİ",,Turkey
+774,"Dr Sevgi Kurt Yazar muayenehanesi",,Turkey
+775,"theclinicseyfiakbay",,Turkey
+776,"SERBEST HEKİM - cumhuriyet. mah. yağmur sok cadde 224 sit b blok kat 4. d 8",,Turkey
+777,"Bitlis Tatvan Devlet Hastanesi",,Turkey
+778,"ÖZEL DENİZLİ TEKDEN HASTANESİ",,Turkey
+779,"BİLECİK EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+780,"Sağlık Bilimleri Üniversitesi Gülhane Tıp Fakültesi Plastik Rekonstrüktif ve Estetik Cerrahi AD",,Turkey
+781,"Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi",,Turkey
+782,"SİNOP ATATÜRK DEVLET HASTANESİ",,Turkey
+783,"Özel Öuayenehane",,Turkey
+784,"Op.Dr.Sultan Yalçın Plastik,Rekonstrüktif ve Estetik Cerrahi Kliniği",,Turkey
+785,"ULUDAĞ ÜNİVERSİTESİ TIP FAKÜLTESİ",,Turkey
+786,"kendi muayenehanesi",,Turkey
+787,"ÖZEL MUAYENEHANE- HARBİYE MAHALLESİ VALİ KONAĞI CADDESİ NO:14 KAT:1 DAİRE:2 ŞİŞLİ",,Turkey
+788,"İzmir Özel Ekol Hastanesi",,Turkey
+789,"MayClinik Levent Mah. Zeren Aralığı Sokak No: 6",,Turkey
+790,"Esteworld Plastik Cerrahi Sağlık Grubu",,Turkey
+791,"Dr. Şerif Yavuz Muayenehanesi",,Turkey
+792,"Nispetiye Cad. No:8-12 Nispetiye On Residence Daire: 48",,Turkey
+793,"İSTANBUL GÖZTEPE PROF. DR. SÜLEYMAN YALÇIN ŞEHİR HASTANESİ",,Turkey
+794,"GİRESUN EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+795,"MEST",,Turkey
+796,"Acıbadem Üniversitesi, Tıp Fakültesi, Acibadem Maslak Hastanesi",,Turkey
+797,"Dr Şükrü İŞLER Muayenehanesi",,Turkey
+798,"Kafkas Üniversitesi Tıp Fakültesi",,Turkey
+799,"fi klinik Doç. Dr. Tahsin Görgülü, FEBOPRAS",,Turkey
+800,"University of Pittsburgh Department of Plastic Surgery",,Turkey
+801,"MediStyle Hospital",,Turkey
+802,"Muayenehane Toros Mah. Kenan Evren Bulvarı. 78068 Sok. Atlantik Plaza Kat:2 No.3",,Turkey
+803,"MUAYENEHANE- BUĞDAY SOK. NO:5/1 KAVAKLIDERE",,Turkey
+804,"İstanbul Maltepe Üniversitesi Tıp Fakültesi",,Turkey
+805,"KIZILTEPE DEVLET HASTANESİ",,Turkey
+806,"VM MedicalPark Samsun Hastanesi",,Turkey
+807,"MEMORIAL KAYSERİ HASTANESİ",,Turkey
+808,"İSTANBUL MEDENİYET ÜNİVERSİTESİ GÖZTEPE EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+809,"Op. Dr. Tugay Seküçoğlu, Muayenehane",,Turkey
+810,"sağlık Bilimleri Üniversitesi Konya Şehir Hastanesi Plastik Cerrahi Kliniği",,Turkey
+811,"ÖZEL ÇAMLICA MEDICANA HASTANESİ",,Turkey
+812,"Tuğçe Yasak Muayenehanesi",,Turkey
+813,"Medicine Hospital",,Turkey
+814,"MUSTAFA KEMAL ÜNİVERSİTESİ TAYFUR ATA SÖKMEN TIP FAKÜLTESİ PLASTİK REKONSTRÜKTİF VE ESTETİK CERRAHİ ANABİLİM DALI",,Turkey
+815,"Acıbdadem Ataşehir Hastanesi",,Turkey
+816,"Mustafa Kemal Mahallesi, Dumlupınar Bulvarı No : 274 Mahall Ankara B Blk. No:50",,Turkey
+817,"calismiyor",,Turkey
+818,"Türker Üstün Muayenehanesi",,Turkey
+819,"Emekli.",,Turkey
+820,"İstanbul Tıp Fakültesi Plastik, Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",,Turkey
+821,"Op Dr Ufuk Askeroglu",,Turkey
+822,"MARDİN KIZILTEPE DEVLET HASTANESİ",,Turkey
+823,"NEVŞEHİR DEVLET HASTANESİ",,Turkey
+824,"OZKAYA İNKILAP TIP MERKEZİ",,Turkey
+825,"SBÜ HASEKİ EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+826,"ESTETHİCA ATAŞEHİR TIP MERKEZİ",,Turkey
+827,"iau vm medikal park florya hastanesi",,Turkey
+828,"fethiye devlet hastanesi",,Turkey
+829,"ENSO Estetik ve Plastik Cerrahi Kliniği",,Turkey
+830,"KASTAMONU EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+831,"OP DR UĞURCAN ŞENER MUAYENEHANESİ",,Turkey
+832,"ÖZEL MUAYENEHANE- GAZİPAŞA CADDESİ GAZİĞAŞA SİTESİ NO:1 KAT:4 DAİRE:22",,Turkey
+833,"SAMSUN ÜNİVERSİTESİ TIP FAKÜLTESİ SAMSUN EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+834,"CADDE BOSTAN MAH. BAĞDAT CAD. KANTARCI RIZA SOK. NO:1 D:4",,Turkey
+835,"Acıbadem Atakent Hastanesi",,Turkey
+836,"Northwestern Medicine",,Turkey
+837,"Dr.Ümit Borataç Estetik klinik",,Turkey
+838,"Ankara Özel Memorial Hastanesi",,Turkey
+839,"HİTİT ÜNİV. TIP FAKÜLTESİ PLASTİK CERRAHİ KLİNİĞİ",,Turkey
+840,"OZEL KLİNİK",,Turkey
+841,"MUAYENEHANE- SARIGÜLLÜK MAH. FEVZİ ÇAKMAK BULVARI NO:57-A",,Turkey
+842,"ÖZEL MUAYENEHANE YENİŞEHİR MERSİN",,Turkey
+843,"Özel Muayenehane - Kızılırmak mah. Ufuk Üniversitesi Cad. Silver Residence No:7/9 Söğütözü",,Turkey
+844,"CİHAN ESTETİK",,Turkey
+845,"İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi Plastik, Rekonstrüktif ve Estetik Cerrahi A.D.",,Turkey
+846,"Kendi Muayenehanesi",,Turkey
+847,"MEDİCALPARK SEYHAN ADANA",,Turkey
+848,"LİV HOSPİTAL ANKARA",,Turkey
+849,"ankara eğitim ve araştırma hastahanesi",,Turkey
+850,"Özel klinik",,Turkey
+851,"Özel Düztepe Yaşam Hastanesi",,Turkey
+852,"Eskişehir Osmangazi Üniversitesi Tıp Fakültesi Hastanesi",,Turkey
+853,"İstinye Ünversitesi Hastanesi Liv Hospital Bahçeşehir",,Turkey
+854,"Kahramanmaraş Sütçü İmam Üniversitesi Tıp Fakültesi Plastik Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",,Turkey
+855,"YONTAR Estetik Kliniği",,Turkey
+856,"GATA El Cerrahisi BD.",,Turkey
+857,"Çukurova Üniversitesi Tıp Fakültesi PREC ABD",,Turkey
+858,"Muayenhane - Kemerkaya Mah. Eski Mektep Sok. Bulvar Apt. No:2 D:1",,Turkey
+859,"Kocaeli Özel Akademi Hastanesi",,Turkey
+860,"KOCAELİ DARICA FARABİ EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+861,"YAVUZ ÖZSULAR MUAYENEHANESİ",,Turkey
+862,"Celal Bayar Üniversitesi Plastik ve Rekonstrüktif Cerrahi",,Turkey
+863,"MANİSA TURGUTLU DEVLET HASTANESİ",,Turkey
+864,"VAN YÜZÜNCÜ YIL DURSUN ODABAŞI TIP MERKEZİ PLASTİK CERRAHİ ANABİLİM DALI",,Turkey
+865,"Ege Üniversitesi Tıp Fakültesi Plastik Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",,Turkey
+866,"Eskişehir Şehir Hastanesi",,Turkey
+867,"Karadeniz Teknik Üniversitesi Plastik Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",,Turkey
+868,"İSTANBUL AYDIN ÜNİVERSİTESİ SAĞLIK UYGULAMA ARAŞTIRMA MERKEZİ FLORYA MEDİKAL PARK HASTANESİ",,Turkey
+869,"ADIYAMAN EĞİTİM VE ARAŞTIRMA HASTANESİ",,Turkey
+870,"MUAYENEHANE- ALT ZEREN SOKAK NO:8 NİŞANTAŞI",,Turkey
+871,"KOCAELİ ŞEHİR HASTANESİ",,Turkey
+872,"Yuzyıl hastanesi",,Turkey
+873,"Europlast Estetik",,Turkey
+874,"Selçuk ÜN. Tıp Fak Plastik, Rek ve Estetik Cerrahi",,Turkey
+875,"Altıntepe Kızılay Tıp Merkezi",,Turkey
+876,"TAMMELA HEALTH CENTER/ FİNLANDİYA",,Turkey
+877,"ÖZEL FARABİ HASTANESİ",,Turkey
+878,"YAKIN DOĞU ÜNİVERSİTESİ HASTANESİ / KKTC",,Turkey
+879,"KOCAELİ ÜNİVERSİTESİ ARAŞTIRMA VE UYGULAMA HASTANESİ",,Turkey
+880,"T.c. Sağlık Bakanlığı Marmara Üniversitesi Pendik Eğitim Ve Araştırma Hastanesi",,Turkey
+881,"Bursa Ali Osman Sönmez Onkolojı Hastanesı",,Turkey
+882,"Sakarya Eğitim Araştırma Hastanesi",,Turkey
+883,"Prof. Dr. Cüneyt Özek",,Turkey
+884,"Konya Şehir Hastanesi",,Turkey
+885,"Uzman Estetik Op.Dr. Zübeyir Örter",,Turkey
+886,"Estenik, Plastik Rekonstrüktif ve Estetik Cerrahi",,Turkey
+887,"muayanane",,Turkey

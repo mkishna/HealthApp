@@ -1,0 +1,5324 @@
+[
+  {
+    "clinic_id": 1,
+    "name": "Select...\nADANA\nADIYAMAN\nAFYONKARAHİSAR\nAĞRI\nAKSARAY\nAMASYA\nANKARA\nANTALYA\nARDAHAN\nARTVİN\nAYDIN\nBALIKESİR\nBARTIN\nBATMAN\nBAYBURT\nBİLECİK\nBİNGÖL\nBİTLİS\nBOLU\nBURDUR\nBURSA\nÇANAKKALE\nÇANKIRI\nÇORUM\nDENİZLİ\nDİYARBAKIR\nDÜZCE\nEDİRNE\nELAZIĞ\nERZİNCAN\nERZURUM\nESKİŞEHİR\nGAZİANTEP\nGİRESUN\nGÜMÜŞHANE\nHAKKARİ\nHATAY\nIĞDIR\nISPARTA\nİSTANBUL\nİZMİR\nKAHRAMANMARAŞ\nKARABÜK\nKARAMAN\nKARS\nKASTAMONU\nKAYSERİ\nKIRIKKALE\nKIRKLARELİ\nKIRŞEHİR\nKİLİS\nKKTC\nKOCAELİ\nKONYA\nKÜTAHYA\nMALATYA\nMANİSA\nMARDİN\nMERSİN\nMUĞLA\nMUŞ\nNEVŞEHİR\nNİĞDE\nORDU\nOSMANİYE\nRİZE\nSAKARYA\nSAMSUN\nSİİRT\nSİNOP\nSİVAS\nŞANLIURFA\nŞIRNAK\nTEKİRDAĞ\nTOKAT\nTRABZON\nTUNCELİ\nUŞAK\nVAN\nYALOVA\nYOZGAT\nZONGULDAK",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 2,
+    "name": "Select...",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 3,
+    "name": "ÖZEL TRAKYA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 4,
+    "name": "Şanlıurfa Metrolife Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 5,
+    "name": "Atatürk Üniversitesi Tıp Fakültesi Plastik Rekonstrüktif ve Estetik Cerrahi A.B.D ERZURUM",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 6,
+    "name": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 7,
+    "name": "ACIBADEM BAKIRKÖY HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 8,
+    "name": "ÜSKÜDAR HOSPİTAL TÜRK HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 9,
+    "name": "Kilis Prof.Dr.Alaeddin Yavaşca Devlet Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 10,
+    "name": "Muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 11,
+    "name": "Selçuk üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 12,
+    "name": "Medicine Hospital Atlas Üniversitesi Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 13,
+    "name": "BOSTANLI GİRNE BLV NO:1/B KARŞIYAKA/İZMİR",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 14,
+    "name": "Doç Dr Erkan Orhan Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 15,
+    "name": "ÖZEL MUAYENEHANE",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 16,
+    "name": "Hairtransplantation Klinik- DR KESER (ÖZEL MUAYENEHANE)",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 17,
+    "name": "Beautymedic Dortmund-Düsseldorf",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 18,
+    "name": "GÜLHANE ASKERİ TIP AKADEMİSİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 19,
+    "name": "Özel Muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 20,
+    "name": "Op Dr Adem Özkan Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 21,
+    "name": "Denizli Özel DolphinMed Sağlık Polikliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 22,
+    "name": "ÖZEL ESTEVİA POLİKLİNİĞİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 23,
+    "name": "marmara ünv. plastik cerrahi abd",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 24,
+    "name": "Medicalpark Batıkent Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 25,
+    "name": "Emekli",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 26,
+    "name": "DOKUZ EYLÜL ÜNİVERSİTESİ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 27,
+    "name": "Neorama Plaza No:13 A /32 Yaşam Caddesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 28,
+    "name": "ANKARA BİLKENT ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 29,
+    "name": "Ege Üniversitesi Tıp Fakültesi, Plastik, Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 30,
+    "name": "ÖZEL ANTAKYA AKADEMİ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 31,
+    "name": "izmir özel sağlık hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 32,
+    "name": "ÖZEL MUAYENEHANE- HALASKARGAZİ CAD. LOTUS NİŞANTAŞI 38-66 İÇ KAPI NO: 75",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 33,
+    "name": "Ahmet Torkut Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 34,
+    "name": "İstanbul Atlas Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 35,
+    "name": "drcınık tıp merkezi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 36,
+    "name": "BAKIRKÖY ACIBADEM HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 37,
+    "name": "AHMET TERZİOĞLU ESTETİK SAĞLIK LTD. ŞTİ.",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 38,
+    "name": "Ondokuz Mayıs Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 39,
+    "name": "Yenigun Mahallesi Mevlana Caddesi No 54 Midtown Plaza A Blok Daire 4",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 40,
+    "name": "yok",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 41,
+    "name": "Başkent Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 42,
+    "name": "Özel Medikent Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 43,
+    "name": "Esteplast Estetik ve Plastik Cerrahi Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 44,
+    "name": "lokman hekim akay hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 45,
+    "name": "Marmara Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 46,
+    "name": "Ahmet Kürşat Yiğit",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 47,
+    "name": "ELBİSTAN DEVLET HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 48,
+    "name": "Doç. Dr. Tunç Tiryaki Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 49,
+    "name": "BANDIRMA EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 50,
+    "name": "İSTİNYE ÜNİVERSİTESİ MEDİCAL PARK GAZİOSMANPAŞA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 51,
+    "name": "ESTEPORT/ Muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 52,
+    "name": "ÖZEL MUAYENEHANE- ABDİ İPEKÇİ CADDESİ ÜNSAL APT.NO 6-8 DAİRE :10",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 53,
+    "name": "ALİYEV CLİNİC",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 54,
+    "name": "ÖZEL MUAYENEHANE (ÖZEL LEONART POLİKLİNİĞİ)",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 55,
+    "name": "İZMİR ÖZEL EGEPOL HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 56,
+    "name": "Özel Muayenehane / Aurum Plastik Cerrahi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 57,
+    "name": "sisli fulya",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 58,
+    "name": "DHR Health",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 59,
+    "name": "Nişantaşı Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 60,
+    "name": "hastane/irmet",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 61,
+    "name": "DOKUZ EYLÜL ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 62,
+    "name": "Este Natura Prof. Dr. Ali Gürlek",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 63,
+    "name": "FLORYA MEDİCAL PARK HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 64,
+    "name": "NCR İnternational Hospital Gaziantep",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 65,
+    "name": "Özel Poliklinik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 66,
+    "name": "Muayenehane - profdremreaksu.com",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 67,
+    "name": "Özel muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 68,
+    "name": "ÖZEL MUAYENEHANE ZORLU CENTER DAİRE:18-19 BEŞİKTAŞ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 69,
+    "name": "emekli",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 70,
+    "name": "MEDİCANA ATAKÖY İSTANBUL",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 71,
+    "name": "Muayenehane- Abdi İpekçi Cad. Hayal Apt. No: 39",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 72,
+    "name": "Yenimahalle Eğitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 73,
+    "name": "Istanbul Universitesi,Cerrahpasa Tip Fakultesi, Plastik, Rekonstruktif ve Estetik Cerrahi Ana Bilim Dali",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 74,
+    "name": "Beykent Üniversitesi Hastnesi-İSTANBUL / Optimed International Çorlu Hastanesi-Tekirdağ/ VEGA Hastanesi Çorlu Tekirdağ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 75,
+    "name": "Özel Muayenehane - Hüsrev Gerede Cad. Güney Apt. No:72",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 76,
+    "name": "Bayındır Sağlık Grubu Hastaneleri İstanbul",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 77,
+    "name": "Dr. Ali Rıza Öreroğlu",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 78,
+    "name": "SERBEST HEKİM",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 79,
+    "name": "Esteloft Estetik ve Plastik Cerrahi Klinği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 80,
+    "name": "Fulya Mahallesi, Büyükdere Cad. No:74 A Blok 212",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 81,
+    "name": "İSTANBUL ÜNİVERSİTESİ CERRAHPAŞA TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 82,
+    "name": "Afyonkarahisar Sağlık Bilimleri Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 83,
+    "name": "Özel Muayenehane - Bağdat Cad. No:322-8",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 84,
+    "name": "kendi kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 85,
+    "name": "izmir Katip Çelebi Üniversitesi Atatürk Eğitim ve araştırma hastanesi dermatoloji kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 86,
+    "name": "Konur Cerrahi Tıp Merkezi Zübeyde Hanım Cad. No:12-1 Çekirge BURSA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 87,
+    "name": "VM MEDİCAL PARK ANKARA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 88,
+    "name": "Dr.Alper Eskalen Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 89,
+    "name": "İZMİR TEPECİK EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 90,
+    "name": "AFYONKARAHİSAR DEVLET HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 91,
+    "name": "Vanity Estetik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 92,
+    "name": "ZONGULDAK ATATÜRK DEVLET HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 93,
+    "name": "Acıbadem Maslak Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 94,
+    "name": "Muayenahane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 95,
+    "name": "Klinik Anka Estetik ve Plastik Cerrahi, Op.Dr.Anı Çinpolat-Op.Dr.Gamze Bektaş",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 96,
+    "name": "İstanbul Üniversitesi-Cerrahpaşa, Cerrahpaşa Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 97,
+    "name": "Gaziantep Üniversitesi Şahinbey Araştırma Ve Uygulama Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 98,
+    "name": "BAŞAKŞEHİR ÇAM ve SAKURA ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 99,
+    "name": "OSMANİYE DEVLET HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 100,
+    "name": "Ankara Eğitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 101,
+    "name": "Siirt Eğitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 102,
+    "name": "Private practice office",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 103,
+    "name": "İzmir Ekol Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 104,
+    "name": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA . CERRAHPAŞA TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 105,
+    "name": "Özel Ofm Antalya Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 106,
+    "name": "İSTANBUL MEDENİYET ÜNİVERSİTESİ GÖZTEPE EAH",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 107,
+    "name": "ÖZEL YAŞAM HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 108,
+    "name": "ANTALYA EĞİTİM VE ARAŞTIRMA HASTANESİ PLASTİK CERRAHİ KLİNİĞİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 109,
+    "name": "AG KLİNİK",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 110,
+    "name": "İSTİNYE ÜNİVERSİTESİ GAZİOSMANPAŞA MEDİCALPARK HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 111,
+    "name": "Mare Clinic",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 112,
+    "name": "Üsküdar Devlet Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 113,
+    "name": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 114,
+    "name": "ıstanbul tıp fakültesi /Medilife Çapa hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 115,
+    "name": "Mersin Şehir Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 116,
+    "name": "ÖZEL MUAYENEHANE- MUĞLA FETHİYE",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 117,
+    "name": "ESTETİA ESTETIA ESTETİK PLASTİK CERRAHİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 118,
+    "name": "ERCİYES ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 119,
+    "name": "İstanbul Üniversitesi İstanbul Tıp Fakültesi / Acıbadem Bakırköy Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 120,
+    "name": "ONURSAL ÜYE",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 121,
+    "name": "Memorial Bahçelievler Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 122,
+    "name": "Doç. Dr. A. Tolga Eryılmaz Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 123,
+    "name": "Hacettepe Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 124,
+    "name": "-",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 125,
+    "name": "ÖZEL MUAYENEHANE (ESTETİK KLİNİK AYDAN AY)",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 126,
+    "name": "Serbest",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 127,
+    "name": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 128,
+    "name": "MUAYENEHANE- FEVZİ ÇAKMAK MAH. 1.YAY SOKAK NO:2/27",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 129,
+    "name": "Academic Hs Bağlarbaşı İstanbul",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 130,
+    "name": "samsun eğitim ve araştırma hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 131,
+    "name": "GAZİ ÜNİVERSİTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 132,
+    "name": "muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 133,
+    "name": "Vanily Bosphorus Çengelköy İstanbul",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 134,
+    "name": "serbest",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 135,
+    "name": "İSTANBUL METİN SABANCI BALTALİMANI KEMİK HASTALIKLARI EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 136,
+    "name": "Altunizade Acıbadem Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 137,
+    "name": "Özel Tınaztepe Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 138,
+    "name": "KONYA ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 139,
+    "name": "Medipol Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 140,
+    "name": "İSTANBUL ÜNİVERSİTESİ İSTANBUL TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 141,
+    "name": "ZEYTİNBURNU AVRASYA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 142,
+    "name": "ÖZEL MUAYENEHANE- HALASKARGAZİ CADDESİ HALASKARGAZİ MAHALLESİ NO:10/A ŞİŞLİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 143,
+    "name": "Özel Pendik Yüzyıl Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 144,
+    "name": "Özel Muayenehane - Fener mahallesi Tekelioğlu Cad. Şenol Çimen Apt. No:9 D:6",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 145,
+    "name": "özel hastane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 146,
+    "name": "Pamukkale Üniversitesi Eğitim Uygulama Ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 147,
+    "name": "ÇANKIRI DEVLET HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 148,
+    "name": "Barış Yiğit Klinik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 149,
+    "name": "BAŞAR KAYA KLİNİĞİ - ÜMİT MAH. OSMANAĞA KONAKLARI 2494/4 SOK. NO:12 ÜMİTKÖY",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 150,
+    "name": "Op. Dr. Başar Erdoğan Estetik Cerrahi Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 151,
+    "name": "ANKARA ETLİK ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 152,
+    "name": "ÖZEL MUAYENEHANE (İstanbul Estetik Plastik Merkezi )",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 153,
+    "name": "ÖZEL MUAYENEHANE (Kadıköy Florence Nightingale Tıp Merkezi)",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 154,
+    "name": "özel muayahane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 155,
+    "name": "ÇAĞLAYAN MAH. FENER CAD. NO:52/7",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 156,
+    "name": "BABUCCU SURGİCAL ARTS NİŞANTAŞI (ÖZEL MUAYENEHANE)",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 157,
+    "name": "Abant İzzet Baysal Üniversite Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 158,
+    "name": "GAZİOSMANPAŞA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 159,
+    "name": "İstanbul Üniversitesi - Cerrahpaşa",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 160,
+    "name": "ALANYA EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 161,
+    "name": "ÖZEL MUAYENEHANE (Özel Elit Polikliniği)",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 162,
+    "name": "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 163,
+    "name": "ERZURUM ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 164,
+    "name": "Yeditepe Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 165,
+    "name": "Op. Dr. Bilgen Katipoğlu Erenoğlu Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 166,
+    "name": "balıkesir üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 167,
+    "name": "KOÇ ÜNİVERSİTESİ TIP FAKÜLTESİ PLASTİK CERRAHİ ANABİLİM DALI",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 168,
+    "name": "Prof.Dr Bilsev İnce Özel Klinik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 169,
+    "name": "güven çayyolu tıp merkezi ile anlaşmalı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 170,
+    "name": "BC Estetik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 171,
+    "name": "İrmet Hospital",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 172,
+    "name": "Özel Muayenehane - Metin Kasapoğlu Cad. No:33/2",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 173,
+    "name": "Sisli memorail hastanesi-zorlucenter wellness",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 174,
+    "name": "İstanbul Tıp Fakültesi Plastik Rekonstrüktif ve Estetik Cerrahi Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 175,
+    "name": "ÖZEL MUAYENEHANE ANKARA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 176,
+    "name": "ŞANLIURFA MEHMET AKİF İNAN EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 177,
+    "name": "Ankara Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 178,
+    "name": "Medline Adana Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 179,
+    "name": "Quartz Klinik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 180,
+    "name": "ANKARA ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 181,
+    "name": "ısparta sdü plastik cerrahi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 182,
+    "name": "Muyanehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 183,
+    "name": "Dr. Burak Alhan Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 184,
+    "name": "Muayenehane-Ataşehir Bulvarı Metropol istanbul AVM A3 K:18 NO:298",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 185,
+    "name": "Başkent Üniversitesi Ankara Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 186,
+    "name": "MEDİPOL ÜNİVERSİTESİ MEDİPOL ACIBADEM BÖLGE HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 187,
+    "name": "VM Medical Park Pendik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 188,
+    "name": "Zonguldak Bülent Ecevit Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 189,
+    "name": "ESTETİKWORLD SAĞLIK HİZMETLERİ A.Ş. KISIKLI CADDESİ NO:7 ALTUNİZADE",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 190,
+    "name": "Marmara Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 191,
+    "name": "Dr Bülent Demir Plastic surgery",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 192,
+    "name": "Estrella Estetik Merkezi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 193,
+    "name": "Dicle Üniversitesi Tıp Fakültesi Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 194,
+    "name": "roswell park cancer institute",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 195,
+    "name": "Serbest Hekim ( Istanbul - Viyana- Zurich-Basel )",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 196,
+    "name": "Dokuz Eylül Üniversitesi Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 197,
+    "name": "DR. CAN KOPAL KLİNİĞİ ŞAİR EŞREF BULVARI BAHAR APT. NO:61 K:2 D: 5",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 198,
+    "name": "Eskişehir Osmangazi Üniversitesi Plastik, Rekonstrüktif ve Estetik Cerrahi ABD",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 199,
+    "name": "İSTANBUL BAĞCILAR EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 200,
+    "name": "İstanbul Üniversitesi - Cerrahpaşa Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 201,
+    "name": "özel",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 202,
+    "name": "can zeliha gül klinik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 203,
+    "name": "MARMARA ÜNİVERSİTESİ PENDİK EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 204,
+    "name": "BAĞCILAR EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 205,
+    "name": "Yüzüncü Yıl Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 206,
+    "name": "Op. Dr. Celal Alioğlu Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 207,
+    "name": "KARTAL DR. LÜTFİ KIRDAR ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 208,
+    "name": "Renovium",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 209,
+    "name": "BAHÇEŞEHİR ÜNİVERSİTESİ MEDİCAL PARK GÖZTEPE HASTANE KOMPLEKSİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 210,
+    "name": "Dr. Cem Berkay Sınacı Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 211,
+    "name": "PROF.DR.CEMAL FIRAT",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 212,
+    "name": "ERCİYES ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 213,
+    "name": "şahsi muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 214,
+    "name": "ALMANYA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 215,
+    "name": "Roswell park cancer institute",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 216,
+    "name": "Çukurova Üniversitesi Tıp Fakültesi Plastik Cerrahi A.D.",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 217,
+    "name": "MEDİCİNE HOSPİTAL",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 218,
+    "name": "Op.Dr.Cenk Görken Estetik Plastik Rekonstrüktif Cerrahi Uzmanı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 219,
+    "name": "Prof. Dr. Cenk Demirdöver Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 220,
+    "name": "KOCAELİ ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 221,
+    "name": "ON DOKUZ MAYIS ÜNİVERSİTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 222,
+    "name": "özel muaynehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 223,
+    "name": "ŞIRNAK DEVLET HASTANESİ PLASTİK CERRAHİ KLİNİĞİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 224,
+    "name": "Trio Klinik - Op. Dr. Çağdaş Orman",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 225,
+    "name": "HAKKARİ DEVLET HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 226,
+    "name": "Clinic Baytekin",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 227,
+    "name": "Çanakkale Onsekiz Mart Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 228,
+    "name": "Kartal Dr. Lütfi Kırdar Şehir Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 229,
+    "name": "Cleveland Clinic",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 230,
+    "name": "KONYA NUMUNE HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 231,
+    "name": "Acıbadem Altunizade Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 232,
+    "name": "esteworld plastik cerrahi hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 233,
+    "name": "GEP ESTETİK",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 234,
+    "name": "Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 235,
+    "name": "Başkent Üniversitesi İstanbul Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 236,
+    "name": "MUAYENEHANE",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 237,
+    "name": "Özel muayenehane, Nişantaşı , istanbul",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 238,
+    "name": "Aydın Devlet Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 239,
+    "name": "ÖZEL MUAYENEHANE- MANSUROĞLU MH.İSLAM KERİMOV CD.NO:4/A",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 240,
+    "name": "SBÜ GÜLHANE EAH",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 241,
+    "name": "ÖZEL ANTALYA ANADOLU HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 242,
+    "name": "Op. Dr. Derviş Akbilen Muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 243,
+    "name": "Muayenehane: Poyracık Sokak 47/5 Nişantaşı İstanbul",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 244,
+    "name": "ÇEVRE HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 245,
+    "name": "Chine Medical Üniversity Hospital",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 246,
+    "name": "MEDİCALPARK ANTALYA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 247,
+    "name": "ısparta şehir hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 248,
+    "name": "Bona Dea International Hospital",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 249,
+    "name": "BAŞAKŞEHİR ÇAM VE SAKURA ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 250,
+    "name": "İSTANBUL EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 251,
+    "name": "Gülhane Eğitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 252,
+    "name": "Op. Dr. Doğuş Yalçın Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 253,
+    "name": "Çevre Hastanesi Mecidiyeköy",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 254,
+    "name": "SİNCAN EĞİTİM VE ARAŞTIRMA HASTANESİ GÖKÇEK MAHALLESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 255,
+    "name": "MUAYENEHANE- HARBİYE MAH. ABDİ İPEKÇİ CAD. NO:39 D: 9",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 256,
+    "name": "ÖZEL MUAYENEHANE MYRA ESTETİK",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 257,
+    "name": "KAYSERİ ŞEHİR HASTANESİ KOCASİNAN",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 258,
+    "name": "EGE ÜNİVERSİTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 259,
+    "name": "özel muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 260,
+    "name": "Bülent Ecevit Üniversitesi Tıp Fakültesi Hastanesi Plastik Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 261,
+    "name": "Kırıkkale Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 262,
+    "name": "ÖZEL HASTANE",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 263,
+    "name": "Özel Muayenehane - Halaskargazi Cad. No 130/1",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 264,
+    "name": "Doku Medical",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 265,
+    "name": "Serbest Hekim",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 266,
+    "name": "Dr. Evrim Uçkunkaya Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 267,
+    "name": "ÖZEL MUAYENEHANE- MURATPAŞA ANTALYA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 268,
+    "name": "Esteworld Hastahanesi Altunizade",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 269,
+    "name": "BALIKESİR ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 270,
+    "name": "Emrah Efe Aslaner Estetik ve Plastik Cerrahi Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 271,
+    "name": "Kocaeli Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 272,
+    "name": "İstanbul Üniversitesi, İstanbul Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 273,
+    "name": "Lokman Hekim Üniversitesi Etlik Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 274,
+    "name": "Yeditepe Üniversitesi Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 275,
+    "name": "T.C. Maltepe Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 276,
+    "name": "ÖZEL KDZ EREĞLİ ECHOMAR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 277,
+    "name": "Sadi Konuk Bakırköy EAH",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 278,
+    "name": "ÖZEL MUAYENEHANE- EYÜPSULTAN- İSTANBUL",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 279,
+    "name": "HALASKARGAZİ CAD. NO:38-66 LOTUS NİŞANTAŞI OFİSLERİ K:4 KAPI NO:56",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 280,
+    "name": "Adnan Menderes Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 281,
+    "name": "MEDİCALPARK TRABZON KARADENİZ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 282,
+    "name": "Çorlu",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 283,
+    "name": "İkon Klinik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 284,
+    "name": "Pamukkale Üniversitsi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 285,
+    "name": "AYA KLİNİK",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 286,
+    "name": "aegz.- Ästhetik-Gesundheits-Zentrum Darmstadt",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 287,
+    "name": "Yuniq Clinic",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 288,
+    "name": "MEMORIAL ATAŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 289,
+    "name": "Prof. Dr. Erdem Tezel",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 290,
+    "name": "Op. Dr. Erdem Aksoy Plastik Rekonstrüktif ve Estetik Cerrahi Uzmanı-Muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 291,
+    "name": "İstanbul Tıp Fakültesi Plastik ve Rekonstrüktif Cerrahi Anabilimdalı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 292,
+    "name": "Başakşehir Çam ve Sakura Şehir Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 293,
+    "name": "MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 294,
+    "name": "ÖZEL MUAYENEHANE- İSLAM KERİMOV CAD.MANSUROĞLU MH.NO:4/A BAYRAKLI/İZMİR",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 295,
+    "name": "ÖZEL MUAYENEHANE / KızılırmaK MAH. 1443. Cd. No:51 D:E",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 296,
+    "name": "istanbul aesthetic center",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 297,
+    "name": "Dr. Erhan Şafak Sağlık Estetik &Lazer Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 298,
+    "name": "İzmir Katip Çelebi Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 299,
+    "name": "kendi ofisi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 300,
+    "name": "Dr. Erkan Yüce Muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 301,
+    "name": "DR. BURHAN NALBANTOĞLU DEVLET HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 302,
+    "name": "KIRŞEHİR EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 303,
+    "name": "ümraniye eğitim ve araştırma hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 304,
+    "name": "Erciyes üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 305,
+    "name": "Nişantaşı muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 306,
+    "name": "Trakya Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 307,
+    "name": "İSTANBUL ÜNİVERSİTESİ İSTANBUL TIP FAKÜLTESİ PLASTİK REKONSTRÜKTİF VE ESTETİK CERRAHİ ANABİLİM DALI",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 308,
+    "name": "Ege Üniversitesi Tıp Fakültesi Plastik Cerrahi Anabilim Dalı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 309,
+    "name": "Hacettepe Üniversitesi Tıp Fakültesi Plastik, Rekonstrüktif ve Estetik Cerrahi Ana Bilim Dalı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 310,
+    "name": "University Hospitals North Midlands",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 311,
+    "name": "Bolu Abant İzzet Baysal Üni. Eğitim Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 312,
+    "name": "SİNCAN NAFİZ KÖREZ DEVLET HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 313,
+    "name": "ÖZEL DÜNYAM HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 314,
+    "name": "GÜLHANE EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 315,
+    "name": "MUAYENEHANE - AHMET YESEVİ CAD. ELMALI SOK. NO:10/3",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 316,
+    "name": "Bezmiâlem Vakıf Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 317,
+    "name": "ANKARA EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 318,
+    "name": "Özel EPC hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 319,
+    "name": "SERBEST MUAYENEHANE",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 320,
+    "name": "ANKARA ABDURRAHMAN YURTASLAN ONKOLOJİ EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 321,
+    "name": "Ataşehir Medicana Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 322,
+    "name": "ERDEM HASTANESİ ÇAKMAK ŞUBESİ İSTANBUL",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 323,
+    "name": "Prof. Dr. Fatih Irmak Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 324,
+    "name": "Dr.Fatih Çınar Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 325,
+    "name": "Özel Muayenehane- 1071 Ankara Plaza Kızılırmak Mah. 1443. Cad. No:25/156 A Blok 22.Kat",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 326,
+    "name": "MEDİCAL PARK GEBZE",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 327,
+    "name": "Biruni Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 328,
+    "name": "KANUNİ EĞİTİM VE ARAŞTIRMA HASTANESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 329,
+    "name": "İzmir Atatürk Eğitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 330,
+    "name": "metropol Avm Atasehir muayenehane .",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 331,
+    "name": "Hliç Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 332,
+    "name": "ankara atatürk eğitim ve araştırma hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 333,
+    "name": "serbest hekim",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 334,
+    "name": "Hacettepe Üniversitesi Tıp Fakültesi Hastanesi Plastik Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 335,
+    "name": "Adıyaman Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 336,
+    "name": "İDOL KBB TIP MERKEZİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 337,
+    "name": "Demirkan Clinic",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 338,
+    "name": "Op. Dr. Sarper Mete",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 339,
+    "name": "Güven Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 340,
+    "name": "Onep kliniği / Monep kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 341,
+    "name": "Antalya özel muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 342,
+    "name": "Fıkret Celik Aesthetic & Plastic Surgery Clinic",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 343,
+    "name": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 344,
+    "name": "http://longevita.co.uk/",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 345,
+    "name": "ankara memorial hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 346,
+    "name": "MEDICINE HOSPITAL İSTANBUL",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 347,
+    "name": "BURSA DORUK NİLÜFER HASTANEİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 348,
+    "name": "Furkan Erol Karabekmez Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 349,
+    "name": "HACETTEPE ÜNİVERSİTESİ TIP FAKÜLTESİ PLASTİK REKONSTRÜKTİF VE ESTETİK CERRAHİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 350,
+    "name": "EMEKLİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 351,
+    "name": "MUAYENEHANE-CADDEBOSTAN MAH. HALDUN TANER SOK. NO:10 D:8",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 352,
+    "name": "COSMED CLİNİC ÖZEL MUAYANEHANE İSTANBUL",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 353,
+    "name": "İstanbul Dr. Lütfi Kırdar Kartal Eğitim Ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 354,
+    "name": "ÇUKUROVA ÜNİVERSİTESİ TIP FAKÜLTESİ Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 355,
+    "name": "Osmaniye Yeni Hayat Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 356,
+    "name": "ÖZEL DÜNYA PARK HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 357,
+    "name": "HACETTEPE ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 358,
+    "name": "Selçuk Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 359,
+    "name": "Op.Dr Gökcen Ayyıldız - Nişantaşı Botoks (Botox) Merkezi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 360,
+    "name": "MANİSA ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 361,
+    "name": "Op.Dr. Gökçen Oran Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 362,
+    "name": "TRABZON KANUNİ EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 363,
+    "name": "Op.Dr.Gökhan Akkök Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 364,
+    "name": "Ankara güven hst plastik cerrahi bölüm başkanı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 365,
+    "name": "Estetik ve Plastik Cerrahi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 366,
+    "name": "Özel Çapa Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 367,
+    "name": "MAHMUTBEY MAHALLESİ TAŞOCAĞI YOLU CADDESİPOLAT POWER BASIN EKSPRES KAT:14 DAİRE :16",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 368,
+    "name": "MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 369,
+    "name": "Özel Muayenehane - İZMİR",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 370,
+    "name": "Çorum Hitit Üniversitesi Erol Olçok Eğitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 371,
+    "name": "Özel Muayenehane- İncirli Cad. Gülderen Sokak No: 2/8 D;11",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 372,
+    "name": "Özel Muayenehane - Cadde Bostan Mah. Çam Fıstığı Sok. No:1 Cadde Palas B Blok D:1",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 373,
+    "name": "muayenhane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 374,
+    "name": "İzmir Özel Egepol hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 375,
+    "name": "SERBEST",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 376,
+    "name": "MEMORİAL ŞİŞLİ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 377,
+    "name": "MUAYENEHANE - OP.DR. CEMİL TOPUZLU CAD. EMEK APT. NO:39/4 FENERBAHÇE",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 378,
+    "name": "Özel Muayehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 379,
+    "name": "LİV HOSPİTAL ULUS İSTANBUL",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 380,
+    "name": "SAĞLIK BAKANLIĞI SİNCAN EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 381,
+    "name": "Uludağ Üniversitesi Tıp Fakültesi Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 382,
+    "name": "Dr Banu Aksoy Klinik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 383,
+    "name": "Op. Dr. Hakan Özocak Plastik, Rekonstrüktif ve Estetik Cerrahi Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 384,
+    "name": "HT CLINIC ÖZEL MUAYENEHANE",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 385,
+    "name": "Özel Gözde Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 386,
+    "name": "Doç. Dr. Hakan Şirinoğlu Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 387,
+    "name": "Özel Muayenehane - B.Onat Cad. B. Onat Apt. No:119/12",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 388,
+    "name": "İstanbul Üniversitesi-Cerrahpaşa, Cerrahpaşa Tıp Fakültesi Plastik, Rekonstrüktif ve Estetik Cerrahi AD",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 389,
+    "name": "Hakan Aktaş Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 390,
+    "name": "Acıbadem Sağlık Gurubu İstanbul",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 391,
+    "name": "Mauyenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 392,
+    "name": "MUAYENEHANE- RUMELİ CAD. MEŞRUTİYET MAH. BİRLİK APT. NO:42/5",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 393,
+    "name": "Koç İkiz Kuleleri A Blok No:57 Söğütözü- Ankara",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 394,
+    "name": "KOCAELİ ÜNİVERSİTESİ PLASTİK REKONSTRÜKTİF VE ESTETİK CERRAHİ ABD",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 395,
+    "name": "Özel ONEP Tıp Merkezi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 396,
+    "name": "İSKENDERUN DEVLET HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 397,
+    "name": "West Virginia University",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 398,
+    "name": "HAB estetik hizmetleri A.Ş",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 399,
+    "name": "anadolu sağlık merkezi hastanesi gebze",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 400,
+    "name": "DOKU TIP",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 401,
+    "name": "ACIBADEM Taksim Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 402,
+    "name": "SAKARYA ÜNİVERSİTESİ EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 403,
+    "name": "İstinye Üniversitesi Tıp Fak.- Liv Hospital Bahçeşehir ve Vadi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 404,
+    "name": "SEYRANTEPE MAHALLESİ ABDULKADİR KONUKOĞLU CADDESİ NO:1 LİV HOSPİTAL ŞEHİTKAMİL",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 405,
+    "name": "Kahramanmaraş Sütçü İmam Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 406,
+    "name": "Hasan Büyükdoğan Muaynehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 407,
+    "name": "İzmir Tepecik Eğitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 408,
+    "name": "H CLINIC",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 409,
+    "name": "Rebornia Center",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 410,
+    "name": "DOKUZ EYLÜL ÜNİVERİSTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 411,
+    "name": "Doç. Dr. Hasan Mete Aksoy Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 412,
+    "name": "OP.DR.HASAN TUNA TÜRKMEN MUAYENEHANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 413,
+    "name": "Akademiska Sjukhuset",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 414,
+    "name": "MUAYENEHANE- HARBİYE MAH. ABDİ İPEKÇİ CAD. NO:59 D:1",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 415,
+    "name": "Mest Meme ve ESTetik Cerrahi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 416,
+    "name": "ÖZEL MUAYENEHANE KLİNEST",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 417,
+    "name": "Seçkin Okşar Estetik Cerrahi Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 418,
+    "name": "Optima İş Merkezi Mersin",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 419,
+    "name": "özel hlc plastik rekonstrüktif cerrahi merkezi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 420,
+    "name": "serbest Hizmet hastanesi MEMORİAL",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 421,
+    "name": "Fbm Tıp Merkezi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 422,
+    "name": "NECMETTİN ERBAKAN ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 423,
+    "name": "İstanbul Üniversitesi İstanbul Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 424,
+    "name": "inönü üniversitesi. Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 425,
+    "name": "For-Est Poliklinik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 426,
+    "name": "İSTANBUL ÜNİVERSİTESİ CERRAHPAŞA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 427,
+    "name": "ŞİŞLİ ETFAL EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 428,
+    "name": "ÖZEL TERMESSOS ŞELALE HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 429,
+    "name": "Özel Klinik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 430,
+    "name": "Trakya Üniversitesi Plastik Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 431,
+    "name": "HB-Clinic",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 432,
+    "name": "DENİZLİ ÖZEL SAĞLIK HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 433,
+    "name": "GATA Haydarpaşa Eğitim Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 434,
+    "name": "Kendi Özel Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 435,
+    "name": "Dicle Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 436,
+    "name": "İstanbul Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 437,
+    "name": "Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 438,
+    "name": "İzmir Ekonomi Üniversitesi Medical Point Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 439,
+    "name": "Gazi Üniversitesi Tıp Fakültesi Plastik Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 440,
+    "name": "Muayenehane : Harbiye Mh.Cumhuriyet Cad.Pak.Ap.No:30 kat 1 Daire2.ŞİŞLİ/İST",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 441,
+    "name": "Özel",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 442,
+    "name": "ÇUKUROVA ÜNİVERSİTESİ TIP FAKÜLTESİ BALCALI HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 443,
+    "name": "ALANYA ESTETİK MERKEZİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 444,
+    "name": "KAYSERİ ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 445,
+    "name": "Lefkoşa KKTC",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 446,
+    "name": "Vanity Estetik Cerrahi Kliniği Altunizade, Tophanelioğlu Cd. No:1",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 447,
+    "name": "Nişantaşı Estetik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 448,
+    "name": "İSTANBUL ATLAS ÜNİVERSİTESİ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 449,
+    "name": "op dr ilgi güler muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 450,
+    "name": "OĞUZHAN AYDOĞDU MUAYENEHANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 451,
+    "name": "ÖZEL FLORYA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 452,
+    "name": "Marmara üniversitesi tıp fakültesi,plastik rekonstrüktif ve estetik cerrahi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 453,
+    "name": "Op Dr İlkay Hüthüt",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 454,
+    "name": "Antalya Egitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 455,
+    "name": "NİĞDE EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 456,
+    "name": "Marmara tıp fakültesi, Pendik Eğitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 457,
+    "name": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 458,
+    "name": "İzmir Şehir Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 459,
+    "name": "Esthatica Levent Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 460,
+    "name": "YOZGAT ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 461,
+    "name": "Ozel",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 462,
+    "name": "Özel Eryaman Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 463,
+    "name": "ERCİYES ÜNİVERSİTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 464,
+    "name": "İsmail Küçüker Klinik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 465,
+    "name": "ÖZEL VİTALE KADIN HASTALIKLARI VE DOĞUM HASTANESİ /KİRALİK KADRO)",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 466,
+    "name": "Özel , Klinik İstanbul",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 467,
+    "name": "Flora Klinik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 468,
+    "name": "İncirli C. N:43 D:7 Osmaniye M. Bakırköy",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 469,
+    "name": "Yeni Yüzyıl Üniversitesi, Özel GOP Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 470,
+    "name": "Mehmet Akif İnan Eğitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 471,
+    "name": "İSTANBUL SANCAKTEPE EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 472,
+    "name": "BAYPARK HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 473,
+    "name": "Acıbadem Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 474,
+    "name": "ONDOKUZ MAYIS ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 475,
+    "name": "OP.DR. KAMİL MANAV KLİNİK",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 476,
+    "name": "Esteworld Plastik Cerrahi Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 477,
+    "name": "Sağlık Bilimleri ÜniversitesiSeyrantepe Hamidiye Etfal Eğitim Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 478,
+    "name": "Plastik, Estetik, Ağız, Yüz ve Çene Cerrahı - Prof. Dr. Kemal Uğurlu",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 479,
+    "name": "Gazi Üniversitesi Tıp Fakültesi Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 480,
+    "name": "Afyonkarahisar Saglık Bilimleri Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 481,
+    "name": "Bezm-i Alem Üniversitesi Hastaneler Grubu",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 482,
+    "name": "ÖZEL DENİZLİ CERRAHİ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 483,
+    "name": "medicana samsun hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 484,
+    "name": "Tutkun Medical Aesthetics",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 485,
+    "name": "İZMİR BOZYAKA EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 486,
+    "name": "kayseri şehir hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 487,
+    "name": "Karadeniz Teknik Üniversitesi Plastik Rekonstrüktif ve Estetik Cerrahi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 488,
+    "name": "Celal Bayar Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 489,
+    "name": "ÖZEL QUARTZ POLİKLİNİĞİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 490,
+    "name": "Ondokuz Mayıs Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 491,
+    "name": "Özel Muayenehane Halaskargazi cad. 81-3 Şişli İstanbul",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 492,
+    "name": "ÖZEL OFM ANTALYA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 493,
+    "name": "Hitit Üniversitesi, Özel muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 494,
+    "name": "Serbest hekim",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 495,
+    "name": "prof.dr.cemil taşçıoğlu şehir hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 496,
+    "name": "Op.Dr.Mahmut Özgül Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 497,
+    "name": "Muayenehane- Mustafa Kemal Bulvarı NO: 87 A-B Fethiye-Muğla",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 498,
+    "name": "GÜNEY ESTETİK CERRAHİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 499,
+    "name": "Bursa Acıbadem Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 500,
+    "name": "BURSA ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 501,
+    "name": "ÖZEL MUAYENEHANE ŞİŞLİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 502,
+    "name": "Hatay Eğitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 503,
+    "name": "Liv Hospital Vadistanbul",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 504,
+    "name": "Özel Muayenehane Barbaros Mah. Mor Sümbül Sok. Deluxia Palace No: 5 D:89 Ataşehir",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 505,
+    "name": "SİVAS NUMUNE HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 506,
+    "name": "Dr.Mehmet Köksal Clinic Nişantaşı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 507,
+    "name": "OP. DR MEHMET ÇİFCİ MUAYENEHANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 508,
+    "name": "ÖZEL MASLAK ACIBADEM HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 509,
+    "name": "Op.Dr.Mehmet Sürmeli Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 510,
+    "name": "Dr Mehmet Cömert Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 511,
+    "name": "dicle üniversitesi hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 512,
+    "name": "ACIBADEM HASTANESİ BODRUM",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 513,
+    "name": "SO-EP Klinik Hulat mah. Nuh Naci Yazgan Cad. No:21",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 514,
+    "name": "Memorial Kayseri Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 515,
+    "name": "özel hekimlik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 516,
+    "name": "www.alanyaestetik.com özel klinik 0242 5222424",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 517,
+    "name": "İSTANBUL BAĞCILAR EĞİTİM ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 518,
+    "name": "Necmettin Erbakan Üniversitesi Meram Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 519,
+    "name": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 520,
+    "name": "YENİ YÜZYIL ÜNİVERSİTESİ ÖZEL GOP HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 521,
+    "name": "Kanuni sultan Süleyman eğitim ve araştırma hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 522,
+    "name": "Özel Ümit Vişnelik Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 523,
+    "name": "Artvin Devlet Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 524,
+    "name": "ÖZEL MUAYENEHANE- KAHRAMANMARAŞ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 525,
+    "name": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ TIP FAKÜLTESİ PLASTİK, REKONSTRÜKTİF VE ESTETİK CERRAHİ ANABİLİM DALI",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 526,
+    "name": "Ankara Bilkent Şehir Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 527,
+    "name": "Özel Buhara Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 528,
+    "name": "ŞİŞLİ HAMİDİYE ETFAL EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 529,
+    "name": "BursaEstetik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 530,
+    "name": "EGE ÜNİVERİSTESİ TIP FAKÜLTESİ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 531,
+    "name": "Muayenehane- Teşvikiye Cad. No:3A Güneş Apt. K:1",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 532,
+    "name": "Op Dr Beşir Öner Clinic Nişantaşı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 533,
+    "name": "DENİZLİ DEVLET HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 534,
+    "name": "HC KLİNİK",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 535,
+    "name": "İstinye Üniversitesi Medicalpark GOP Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 536,
+    "name": "İstinye Üniversitesi Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 537,
+    "name": "Meşrutiyet mah. Hacı Mansur Sk. No:2",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 538,
+    "name": "Esat Olgun",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 539,
+    "name": "Dr. MFO - Art, Surgery & Beauty",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 540,
+    "name": "dicle üniversitesi tıp fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 541,
+    "name": "özel muayehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 542,
+    "name": "FIRAT ÜNİVERSİTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 543,
+    "name": "MUAYENEHANE- 15 TEMMUZ MAH. 148042 SOK. NO:5",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 544,
+    "name": "Avicenna hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 545,
+    "name": "DİCLE ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 546,
+    "name": "İzmir Muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 547,
+    "name": "İSTANBUL ÜNİVERSİTESİ TIP FAKÜLTESİ PLASTİK REKONSTRÜKTİF VE ESTETİK CERRAHİ ANABİLİM DALI",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 548,
+    "name": "GAZİ ÜNİVERSİTESİ TIP FAKÜLTESİ + SERBEST HEKİMLİK",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 549,
+    "name": "Karaaltın Sağlık izmetleri",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 550,
+    "name": "İstanbul Kanuni Sultan Süleyman Eğitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 551,
+    "name": "Melekber Çavuş Özkan Muayehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 552,
+    "name": "Regen-IC klinik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 553,
+    "name": "Özel Egesante Tıp Merkezi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 554,
+    "name": "Afyonkarahisar Devlet Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 555,
+    "name": "muaynehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 556,
+    "name": "BURSA ULUDAĞ ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 557,
+    "name": "KOCAELİ DEVLET HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 558,
+    "name": "ÖZEL MUAYENEHANE- BAĞDAT CAD. NO: 499/1",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 559,
+    "name": "YEDİTEPE ÜNİVERSİTESİ HASTANELERİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 560,
+    "name": "Özel Muayenehane Bağdat Cad. No: 292/8",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 561,
+    "name": "Hacettepe Üniversitesi Tıp Fakültesi Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 562,
+    "name": "Esteworld Altunizade",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 563,
+    "name": "ANKARA BİLKENT ŞEHİR HASTANESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 564,
+    "name": "istanbul kartal dr. lütfi kırdar E.A.H.",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 565,
+    "name": "Op Dr Mert Sandıkcı Estetik ve Plastik Cerrahi Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 566,
+    "name": "Dokuz Eylül üniversitesi hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 567,
+    "name": "Dokuz eylül üniversitesi plastik rekonstrüktif ve estetik cerrahi anabilim dali",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 568,
+    "name": "Serbest muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 569,
+    "name": "Sakarya Yenikent Devlet Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 570,
+    "name": "Özel estetiCare Tıp Merkezi BURSA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 571,
+    "name": "OP.DR.METİN TEMEL MUAYENEHANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 572,
+    "name": "Abant İzzet Baysal Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 573,
+    "name": "Acıbadem Sağlık Grubu",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 574,
+    "name": "özel büyükşehir hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 575,
+    "name": "T.C Medeniyet Üniversitesi Göztepe E.A.H",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 576,
+    "name": "Serbest Muayenehane Hekimi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 577,
+    "name": "SELÇUK ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 578,
+    "name": "ANKARA ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 579,
+    "name": "KARADENİZ TEKNİK ÜNİVERSİTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 580,
+    "name": "Dr Muharrem Demiroğulları Kliniği BESA Kule A Blok",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 581,
+    "name": "AMASYA ÜNİVERSİTESİ SABUNCUOĞLU ŞEREFEDDİN E.A.H.",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 582,
+    "name": "Hitit Üniversitesi Erol Olçok Eğitim Ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 583,
+    "name": "MURAT TEZCAN ESTETİK",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 584,
+    "name": "Selenium Plaza Muayenehane - Beşiktaş",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 585,
+    "name": "SERBEST Muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 586,
+    "name": "Hacettepe Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 587,
+    "name": "ÖZEL MUAYENEHANE FENER MAH FALEZ CADDESİ NO:27/C",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 588,
+    "name": "ÖZEL ESTETIK INTERNATİONAL PLASTİK CERRAHİ TIP MERKEZİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 589,
+    "name": "ULUDAĞ ÜNİVERSİTESİ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 590,
+    "name": "KOCAELİ ÜNİVERSİTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 591,
+    "name": "Gebze Medicalpark Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 592,
+    "name": "Dokuz Eylül Üniversitesi Tıp Fakültesi, Plastik, Rekonstrüktif ve Estetik Cerrahi Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 593,
+    "name": "Mustafa Durğun Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 594,
+    "name": "ÖZEL MUAYENEHANE- KONAK EĞİTİMCİLER CAD. NO:2/15",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 595,
+    "name": "MUAYENEHANE - GAZİPAŞA CAD. NO:18/3 ORTAHİSAR",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 596,
+    "name": "Muğla Sıtkı Koçman Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 597,
+    "name": "Angora Klinik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 598,
+    "name": "ÖZEL MERSİN SİSTEM CERRAHİ TIP MERKEZİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 599,
+    "name": "ÖZEL İZMİR GAZİ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 600,
+    "name": "Çanakkale Onsekiz Mart Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 601,
+    "name": "mustafa Kemal üniversitesi Plastik Rekonstrüktif Ve Estetik Cerrahi AD.",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 602,
+    "name": "MUAYENEHANE- VALİ KONAĞI CAD. MARMARA APT. NO: 16/6",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 603,
+    "name": "CASANİTA PLAZA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 604,
+    "name": "Eşrefpaşa Belediye Hastanesi İzmir",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 605,
+    "name": "Manisa Celal Bayar Üniversitesi Hafsa Sultan Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 606,
+    "name": "ANTALYA ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 607,
+    "name": "Özel Beylikdüzü-İstanbul",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 608,
+    "name": "vkv amerikan hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 609,
+    "name": "DrMusK Clinic Nişantaşı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 610,
+    "name": "ANKARA ATATÜRK EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 611,
+    "name": "KAHRAMANMARAŞ SÜTÇÜ İMAM TIP FAKÜLTESİ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 612,
+    "name": "Ondokuz Mayis Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 613,
+    "name": "MENGÜCEK GAZİ EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 614,
+    "name": "Memorial İSTANBUL Bahçelievler",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 615,
+    "name": "Özel Ege Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 616,
+    "name": "ESTECENTER CLINIC FULYA-ISTANBUL",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 617,
+    "name": "Mansuroğlu Mah. 286/3 Sk No:17 K:1 D:1",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 618,
+    "name": "KEÇİÖREN EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 619,
+    "name": "Hacettepe Üniversitesi / Özel Muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 620,
+    "name": "Ankara Dr. Abdurrahman Yurtaslan Onkoloji Eğitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 621,
+    "name": "MEDİPOL Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 622,
+    "name": "Serbest Muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 623,
+    "name": "Harbiye Mahallesi Teşvikiye Caddesi No:17 Daire :8 Nişantaşı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 624,
+    "name": "LÖSANTE ÇOCUK VE YETİŞKİN HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 625,
+    "name": "Novita Estetik Merkezi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 626,
+    "name": "AVRASYA HASTANESİ GAZİOSMANPAŞA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 627,
+    "name": "SAMSUN MEDİCANA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 628,
+    "name": "ANTALYA EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 629,
+    "name": "AFYONKARAHİSAR ÖZEL PARKHAYAT HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 630,
+    "name": "VM MEDİKALPARK HASTANESİ MERSİN",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 631,
+    "name": "Medicana International Istanbul Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 632,
+    "name": "Necmettin Erbakan Üniversitesİ MERAM TIP FAKÜLTESİ CERRAHİ TIP BİLİMLERİ BÖLÜMÜ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 633,
+    "name": "İSTANBUL TÜRKİYE HASTANESİ PLASTİK CERRAHİ BÖLÜMÜ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 634,
+    "name": "İstanbul Haydarpaşa Numune Eğıtım Ve Araştirma Hastanesı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 635,
+    "name": "SİVAS MEDİCANA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 636,
+    "name": "SBÜ GÜLHANE EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 637,
+    "name": "ACIBADEM İnternational Hospital",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 638,
+    "name": "ÖZEL MUAYENEHANE- NİSPETİYE CADDESİ BIYIKLI MEHMET PAŞA SOKAK NO:30 ETİLER",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 639,
+    "name": "Muğla Özel Yücelen Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 640,
+    "name": "İstanbul,Şişli muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 641,
+    "name": "ÖZEL MEDİKAL HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 642,
+    "name": "Op. Dr. Niyazi Şimdivar Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 643,
+    "name": "Bezmiâlem Vakıf Üniversitesi Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 644,
+    "name": "Bursa Uludağ Üniversitesi Tıp Fakültesi Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 645,
+    "name": "Op.Dr NURGÜL ALTUNTAŞ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 646,
+    "name": "Valikonağı Caddesi, Gündoğdu Apt. No: 43 Daire: 1",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 647,
+    "name": "plastik cerrahi kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 648,
+    "name": "ANKARA ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 649,
+    "name": "İstanbul Medeniyet Üniversitesi Göztepe Eğ. Ar. Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 650,
+    "name": "İstanbul Aydın Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 651,
+    "name": "ÇUKUROVA ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 652,
+    "name": "MUYANEHANE- Mansuroğlu mah. 288/4 Sokak Avcılar Exclusive, No:9/1 K:7 D:154",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 653,
+    "name": "OP.DR. OĞUZ ÇÖRTÜK MUAYENEHANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 654,
+    "name": "Selçuk Üniversitesi Hastanesi Plastik, Rekonstrüktif ve Estetik Cerrahi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 655,
+    "name": "SULTAN MEHMET BULVARI EVLİYA ÇELEBİ EĞİTİM VE ARAŞTIRMA HASTANESİ PLASTİK CERRAHİ POLİKLİNİĞİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 656,
+    "name": "ÖZEL MUAYENEHANE-Özel Florya Cerrahi Tıp Merkezi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 657,
+    "name": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 658,
+    "name": "KARADENİZ TEKNİK ÜNİVERSİTESİ FARABİ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 659,
+    "name": "ANKARA ONKOLOJİ EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 660,
+    "name": "T.C. SAĞLIK BAKANLIĞI İSTANBUL GAZİOSMANPAŞA EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 661,
+    "name": "Özel Estanbul Polikliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 662,
+    "name": "PROF.DR.CEMİL TAŞÇIOĞLU ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 663,
+    "name": "Op.Dr.Onur SAKA Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 664,
+    "name": "MUAYENEHANE- ÇAĞLAYAN MAHALLESİ MURATPAŞA/ANTALYA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 665,
+    "name": "Op.Dr.Onur Oğan Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 666,
+    "name": "Op.Dr. Orhan Aydın Muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 667,
+    "name": "Babucçu Estetik Merkezi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 668,
+    "name": "Meram Tıp Fak.",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 669,
+    "name": "LİV HOSPİTAL BAHÇEŞEHİR",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 670,
+    "name": "BURSA HAYAT HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 671,
+    "name": "ÖZEL MUAYNEHANE",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 672,
+    "name": "Dr. Osman TAN Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 673,
+    "name": "Gazi Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 674,
+    "name": "Harbiye mah. Abdi ipekçi cad. No:61 Reasürans Han 2, Kat:5",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 675,
+    "name": "Akın Yücel Klinik Maçka Cd 15/2 Şişli / İstanbul",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 676,
+    "name": "Özel Şenel Polikliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 677,
+    "name": "memorial kayseri hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 678,
+    "name": "BANDIRMA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 679,
+    "name": "ACIBADEM SAĞLIK GRUBU",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 680,
+    "name": "Kastamonu Eğitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 681,
+    "name": "ONEP Tıp Merkezi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 682,
+    "name": "ESTETİKA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 683,
+    "name": "Atatürk Bulvarı, Gökay Plaza Kat:1 Konyaaltı/Antalya",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 684,
+    "name": "Özel Sağlık Hastanesi İzmir",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 685,
+    "name": "Op Dr Ömer Keven Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 686,
+    "name": "Çukurova Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 687,
+    "name": "Ankara Keçiören Eğitim Ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 688,
+    "name": "MUAYENEHANE- CEMİL TOPUZLU CAD. CADDEBOSTAN MAH. NO:67/1",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 689,
+    "name": "Bahçelievler Medical Park Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 690,
+    "name": "ORCestetik plastik cerrahi kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 691,
+    "name": "Professor Dr Ömer Refik Özerdem, Plastic Surgeon",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 692,
+    "name": "VM MEDICAL PARK PENDİK HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 693,
+    "name": "Özel Muayenehane, Vişnezade Mh. Şehit Mehmet Sk. Maçka Residences No: 9A/12, 34357 Beşiktaş / İstanbul",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 694,
+    "name": "( Özel )Önder Karaaslan Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 695,
+    "name": "Muayenehane- Harbiye Mahallesi, Teşvikiye Cad. İnayet Apt, No:43, Kat:1, Nişantaşı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 696,
+    "name": "NECİP FAZIL ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 697,
+    "name": "Meşrutiyet mahallesi Rumeli caddesi Rumeli Plaza no :22 Şişli / İstanbul",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 698,
+    "name": "Ege Estetik Cerrahi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 699,
+    "name": "Ankara Bilkent Şehir Hastanesi Plastik Cerrahi Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 700,
+    "name": "ANKARA ATATÜRK SANATORYUM EAH",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 701,
+    "name": "Ankara Etlik Şehir Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 702,
+    "name": "BALIKESİR ATATÜRK ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 703,
+    "name": "Tekirdağ Namık Kemal Üniversitesi Tıp Fakültesi Aaraştırma ve Uygulama Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 704,
+    "name": "Özel Muayenehane Tunalı Hilmi Cad. No: 112/3",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 705,
+    "name": "Marmara Üniversitesi - Tıp Fakültesi / Cerrahi Tıp Bilimleri Bölümü",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 706,
+    "name": "Demiroğlu Bilim Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 707,
+    "name": "İÇMELER MAH. ZİNNUR SOK. NO: 3 LANTANA PLAZA K:4 OFİS :13",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 708,
+    "name": "AKDENİZ ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 709,
+    "name": "Özel Epc Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 710,
+    "name": "S.B.Ü. Başakşehir Çam ve Sakura Şehir Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 711,
+    "name": "İnönü Üniversitesi Turgut Özal Tıp Merkezi Plastik Cerrahi AB",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 712,
+    "name": "Cleveland Clinic Ana Kampüsü",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 713,
+    "name": "dr. ramazan güler muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 714,
+    "name": "Uludağ üniv tıp fak- serbest hekim",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 715,
+    "name": "Ankara Şehir Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 716,
+    "name": "Pamukkale Üniv. Eğitim Uyg. Araş. Hastanesi Kınıklı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 717,
+    "name": "ADANA ŞEHİR EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 718,
+    "name": "gaziantep üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 719,
+    "name": "Mersin Şehir EAH",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 720,
+    "name": "ÖZEL MUAYENEHANE- ESKİŞEHİR",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 721,
+    "name": "Prof. Dr. Reha Yavuzer",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 722,
+    "name": "DR REŞAT AKTAŞ KLİNİĞİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 723,
+    "name": "UŞAK ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 724,
+    "name": "BHT CLİNİC İSTANBUL TEMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 725,
+    "name": "Cosmed Plastik Cerrahi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 726,
+    "name": "ORTACA YÜCELEN HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 727,
+    "name": "Özel EPC Hastanesi Adana",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 728,
+    "name": "AMERİKAN HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 729,
+    "name": "Texas, New Mexico El Paso Cosmetic Surgery",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 730,
+    "name": "DIŞKAPI YILDIRIM BEYAZIT EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 731,
+    "name": "Saffet Ulutaş kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 732,
+    "name": "Saffet Örs Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 733,
+    "name": "Afyon Sağlık Bilimleri Üniversitesi Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 734,
+    "name": "Prof. Dr. Cemil Taşçıoğlu Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 735,
+    "name": "CLİNİCPLAST",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 736,
+    "name": "Samet Hariri Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 737,
+    "name": "OZEL",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 738,
+    "name": "SELÇUK ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 739,
+    "name": "Prof.Dr.Sarper Yılmaz Muayehanesi / Mustafa Kemal Mahallesi Dumlupınar Bulvarı Mahall Yaşam Merkezi 274/2-117",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 740,
+    "name": "DIŞKAPI EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 741,
+    "name": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 742,
+    "name": "ÖZEL MUAYENEHANE-OP.DR.SELAHADDİN ASLAN",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 743,
+    "name": "Amerikan Hastanesi & Koç Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 744,
+    "name": "Özel Muayenahane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 745,
+    "name": "Lookus",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 746,
+    "name": "selçuk yüce klinik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 747,
+    "name": "Uludağ Üniversitesi Tıp Fakültesi Plastik,Rekonstrüktif ve Estetik Cerrahi A.D. BURSA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 748,
+    "name": "ÖZEL MEDİFEMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 749,
+    "name": "Özel Hekimlik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 750,
+    "name": "Süleyman Demirel Üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 751,
+    "name": "Op. Dr. Sema Özden Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 752,
+    "name": "Vanity Estetik Cerrahi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 753,
+    "name": "İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 754,
+    "name": "Cizre Dr Selahattin Cizrelioğlu Devlet Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 755,
+    "name": "ÖZEL MUAYENEHANE Semra Nergiz Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 756,
+    "name": "ŞİŞLİ EFTAL EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 757,
+    "name": "UFUK ÜNİVERSİTESİ DR. RIDVAN EGE HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 758,
+    "name": "erciyes üniversitesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 759,
+    "name": "Esteden Estetik Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 760,
+    "name": "MUAYENEHANE- ABDULKADİR AKSU BULVARI SIRAEVLER SİTESİ NO:130/C/B",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 761,
+    "name": "Op.Dr.Serdar M.Beten",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 762,
+    "name": "özel klinik, ClinicSBB",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 763,
+    "name": "Ankara Üniversitesi Tıp Fakültesi Plastik Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 764,
+    "name": "Muayenehane- İran Caddesi 33/3",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 765,
+    "name": "Uludağ Üniversitesi Tıp Fakültesi Plastik ve Rekonstrüktif Cerrahi A.D. Bursa",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 766,
+    "name": "GAZİ ÜNİVERSİTESİ TIP FAKÜLTESİ PLASTİK CERRAHİ ANABİLİM DALI",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 767,
+    "name": "MUAYENEHANE- Hoşnudiye Mh. 767 Sokak No:2 K:7 D:22 Kaya Prestij Plaza A Blok",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 768,
+    "name": "GAZİANTEP ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 769,
+    "name": "ÖZEL",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 770,
+    "name": "ÖZEL MUAYENEHANE MURATPAŞA ANTALYA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 771,
+    "name": "DİCLE ÜNİVERSİTESİ TIP FAKÜLTESİ PLASTİK CERRAHİ ANABİLİM DALI",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 772,
+    "name": "ÖZEL METROLİFE HASTANESİ ŞANLIURFA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 773,
+    "name": "ANKARA ÜNİVERİSTESİ TIP FAKÜLTESİ CEBECİ UYGULAMA VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 774,
+    "name": "Dr Sevgi Kurt Yazar muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 775,
+    "name": "theclinicseyfiakbay",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 776,
+    "name": "SERBEST HEKİM - cumhuriyet. mah. yağmur sok cadde 224 sit b blok kat 4. d 8",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 777,
+    "name": "Bitlis Tatvan Devlet Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 778,
+    "name": "ÖZEL DENİZLİ TEKDEN HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 779,
+    "name": "BİLECİK EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 780,
+    "name": "Sağlık Bilimleri Üniversitesi Gülhane Tıp Fakültesi Plastik Rekonstrüktif ve Estetik Cerrahi AD",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 781,
+    "name": "Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 782,
+    "name": "SİNOP ATATÜRK DEVLET HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 783,
+    "name": "Özel Öuayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 784,
+    "name": "Op.Dr.Sultan Yalçın Plastik,Rekonstrüktif ve Estetik Cerrahi Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 785,
+    "name": "ULUDAĞ ÜNİVERSİTESİ TIP FAKÜLTESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 786,
+    "name": "kendi muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 787,
+    "name": "ÖZEL MUAYENEHANE- HARBİYE MAHALLESİ VALİ KONAĞI CADDESİ NO:14 KAT:1 DAİRE:2 ŞİŞLİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 788,
+    "name": "İzmir Özel Ekol Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 789,
+    "name": "MayClinik Levent Mah. Zeren Aralığı Sokak No: 6",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 790,
+    "name": "Esteworld Plastik Cerrahi Sağlık Grubu",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 791,
+    "name": "Dr. Şerif Yavuz Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 792,
+    "name": "Nispetiye Cad. No:8-12 Nispetiye On Residence Daire: 48",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 793,
+    "name": "İSTANBUL GÖZTEPE PROF. DR. SÜLEYMAN YALÇIN ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 794,
+    "name": "GİRESUN EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 795,
+    "name": "MEST",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 796,
+    "name": "Acıbadem Üniversitesi, Tıp Fakültesi, Acibadem Maslak Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 797,
+    "name": "Dr Şükrü İŞLER Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 798,
+    "name": "Kafkas Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 799,
+    "name": "fi klinik Doç. Dr. Tahsin Görgülü, FEBOPRAS",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 800,
+    "name": "University of Pittsburgh Department of Plastic Surgery",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 801,
+    "name": "MediStyle Hospital",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 802,
+    "name": "Muayenehane Toros Mah. Kenan Evren Bulvarı. 78068 Sok. Atlantik Plaza Kat:2 No.3",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 803,
+    "name": "MUAYENEHANE- BUĞDAY SOK. NO:5/1 KAVAKLIDERE",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 804,
+    "name": "İstanbul Maltepe Üniversitesi Tıp Fakültesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 805,
+    "name": "KIZILTEPE DEVLET HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 806,
+    "name": "VM MedicalPark Samsun Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 807,
+    "name": "MEMORIAL KAYSERİ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 808,
+    "name": "İSTANBUL MEDENİYET ÜNİVERSİTESİ GÖZTEPE EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 809,
+    "name": "Op. Dr. Tugay Seküçoğlu, Muayenehane",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 810,
+    "name": "sağlık Bilimleri Üniversitesi Konya Şehir Hastanesi Plastik Cerrahi Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 811,
+    "name": "ÖZEL ÇAMLICA MEDICANA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 812,
+    "name": "Tuğçe Yasak Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 813,
+    "name": "Medicine Hospital",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 814,
+    "name": "MUSTAFA KEMAL ÜNİVERSİTESİ TAYFUR ATA SÖKMEN TIP FAKÜLTESİ PLASTİK REKONSTRÜKTİF VE ESTETİK CERRAHİ ANABİLİM DALI",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 815,
+    "name": "Acıbdadem Ataşehir Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 816,
+    "name": "Mustafa Kemal Mahallesi, Dumlupınar Bulvarı No : 274 Mahall Ankara B Blk. No:50",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 817,
+    "name": "calismiyor",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 818,
+    "name": "Türker Üstün Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 819,
+    "name": "Emekli.",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 820,
+    "name": "İstanbul Tıp Fakültesi Plastik, Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 821,
+    "name": "Op Dr Ufuk Askeroglu",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 822,
+    "name": "MARDİN KIZILTEPE DEVLET HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 823,
+    "name": "NEVŞEHİR DEVLET HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 824,
+    "name": "OZKAYA İNKILAP TIP MERKEZİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 825,
+    "name": "SBÜ HASEKİ EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 826,
+    "name": "ESTETHİCA ATAŞEHİR TIP MERKEZİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 827,
+    "name": "iau vm medikal park florya hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 828,
+    "name": "fethiye devlet hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 829,
+    "name": "ENSO Estetik ve Plastik Cerrahi Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 830,
+    "name": "KASTAMONU EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 831,
+    "name": "OP DR UĞURCAN ŞENER MUAYENEHANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 832,
+    "name": "ÖZEL MUAYENEHANE- GAZİPAŞA CADDESİ GAZİĞAŞA SİTESİ NO:1 KAT:4 DAİRE:22",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 833,
+    "name": "SAMSUN ÜNİVERSİTESİ TIP FAKÜLTESİ SAMSUN EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 834,
+    "name": "CADDE BOSTAN MAH. BAĞDAT CAD. KANTARCI RIZA SOK. NO:1 D:4",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 835,
+    "name": "Acıbadem Atakent Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 836,
+    "name": "Northwestern Medicine",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 837,
+    "name": "Dr.Ümit Borataç Estetik klinik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 838,
+    "name": "Ankara Özel Memorial Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 839,
+    "name": "HİTİT ÜNİV. TIP FAKÜLTESİ PLASTİK CERRAHİ KLİNİĞİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 840,
+    "name": "OZEL KLİNİK",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 841,
+    "name": "MUAYENEHANE- SARIGÜLLÜK MAH. FEVZİ ÇAKMAK BULVARI NO:57-A",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 842,
+    "name": "ÖZEL MUAYENEHANE YENİŞEHİR MERSİN",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 843,
+    "name": "Özel Muayenehane - Kızılırmak mah. Ufuk Üniversitesi Cad. Silver Residence No:7/9 Söğütözü",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 844,
+    "name": "CİHAN ESTETİK",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 845,
+    "name": "İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi Plastik, Rekonstrüktif ve Estetik Cerrahi A.D.",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 846,
+    "name": "Kendi Muayenehanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 847,
+    "name": "MEDİCALPARK SEYHAN ADANA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 848,
+    "name": "LİV HOSPİTAL ANKARA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 849,
+    "name": "ankara eğitim ve araştırma hastahanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 850,
+    "name": "Özel klinik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 851,
+    "name": "Özel Düztepe Yaşam Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 852,
+    "name": "Eskişehir Osmangazi Üniversitesi Tıp Fakültesi Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 853,
+    "name": "İstinye Ünversitesi Hastanesi Liv Hospital Bahçeşehir",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 854,
+    "name": "Kahramanmaraş Sütçü İmam Üniversitesi Tıp Fakültesi Plastik Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 855,
+    "name": "YONTAR Estetik Kliniği",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 856,
+    "name": "GATA El Cerrahisi BD.",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 857,
+    "name": "Çukurova Üniversitesi Tıp Fakültesi PREC ABD",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 858,
+    "name": "Muayenhane - Kemerkaya Mah. Eski Mektep Sok. Bulvar Apt. No:2 D:1",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 859,
+    "name": "Kocaeli Özel Akademi Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 860,
+    "name": "KOCAELİ DARICA FARABİ EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 861,
+    "name": "YAVUZ ÖZSULAR MUAYENEHANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 862,
+    "name": "Celal Bayar Üniversitesi Plastik ve Rekonstrüktif Cerrahi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 863,
+    "name": "MANİSA TURGUTLU DEVLET HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 864,
+    "name": "VAN YÜZÜNCÜ YIL DURSUN ODABAŞI TIP MERKEZİ PLASTİK CERRAHİ ANABİLİM DALI",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 865,
+    "name": "Ege Üniversitesi Tıp Fakültesi Plastik Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 866,
+    "name": "Eskişehir Şehir Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 867,
+    "name": "Karadeniz Teknik Üniversitesi Plastik Rekonstrüktif ve Estetik Cerrahi Anabilim Dalı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 868,
+    "name": "İSTANBUL AYDIN ÜNİVERSİTESİ SAĞLIK UYGULAMA ARAŞTIRMA MERKEZİ FLORYA MEDİKAL PARK HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 869,
+    "name": "ADIYAMAN EĞİTİM VE ARAŞTIRMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 870,
+    "name": "MUAYENEHANE- ALT ZEREN SOKAK NO:8 NİŞANTAŞI",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 871,
+    "name": "KOCAELİ ŞEHİR HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 872,
+    "name": "Yuzyıl hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 873,
+    "name": "Europlast Estetik",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 874,
+    "name": "Selçuk ÜN. Tıp Fak Plastik, Rek ve Estetik Cerrahi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 875,
+    "name": "Altıntepe Kızılay Tıp Merkezi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 876,
+    "name": "TAMMELA HEALTH CENTER/ FİNLANDİYA",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 877,
+    "name": "ÖZEL FARABİ HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 878,
+    "name": "YAKIN DOĞU ÜNİVERSİTESİ HASTANESİ / KKTC",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 879,
+    "name": "KOCAELİ ÜNİVERSİTESİ ARAŞTIRMA VE UYGULAMA HASTANESİ",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 880,
+    "name": "T.c. Sağlık Bakanlığı Marmara Üniversitesi Pendik Eğitim Ve Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 881,
+    "name": "Bursa Ali Osman Sönmez Onkolojı Hastanesı",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 882,
+    "name": "Sakarya Eğitim Araştırma Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 883,
+    "name": "Prof. Dr. Cüneyt Özek",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 884,
+    "name": "Konya Şehir Hastanesi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 885,
+    "name": "Uzman Estetik Op.Dr. Zübeyir Örter",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 886,
+    "name": "Estenik, Plastik Rekonstrüktif ve Estetik Cerrahi",
+    "city": null,
+    "country": "Turkey"
+  },
+  {
+    "clinic_id": 887,
+    "name": "muayanane",
+    "city": null,
+    "country": "Turkey"
+  }
+]
